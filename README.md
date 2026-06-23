@@ -14,6 +14,7 @@ An independent, informational website providing a comprehensive guide to the Bur
 | Privacy Policy | `privacy-policy.html` | Full privacy policy |
 | Disclaimer | `disclaimer.html` | Full legal disclaimer |
 | Contact Us | `contact.html` | Contact form and email info |
+| Calories Guide | `calories.html` | Comprehensive guide to all Burger King menu items' nutritional information and calorie counts |
 
 ## Structure
 
