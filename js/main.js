@@ -84,8 +84,11 @@
   /* --- SCROLL FADE IN --- */
   const observer = new IntersectionObserver(entries => {
     entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('visible'); observer.unobserve(entry.target); } });
-  }, { threshold: 0.08 });
-  document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+  }, { threshold: 0, rootMargin: '100px' });
+  document.querySelectorAll('.fade-in').forEach(el => {
+    el.classList.add('visible');
+    observer.observe(el);
+  });
 
   /* --- CONTACT FORM --- */
   const contactForm = document.getElementById('contactForm');

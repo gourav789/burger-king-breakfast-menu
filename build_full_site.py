@@ -134,13 +134,62 @@ def generate_calories_page(lang, base_prose):
         prose = re.sub(r'<strong>Carbs \(g\)</strong>', f'<strong>{t["carbs"]} (g)</strong>', prose)
         prose = re.sub(r'<strong>Serving Size</strong>', f'<strong>{t["serving"]}</strong>', prose)
 
+        if lang == 'es':
+            prose = re.sub(r'<h2>Introduction: Understanding Calories at Burger King UK</h2>', '<h2>Introducción: Comprender las Calorías en Burger King UK</h2>', prose)
+            prose = re.sub(r'<h2>Daily Calorie Intake Guidelines in the UK</h2>', '<h2>Guía de Ingesta Calórica Diaria en el Reino Unido</h2>', prose)
+            prose = re.sub(r'<h3>Recommended Daily Calorie Intake</h3>', '<h3>Ingesta Diaria Recomendada de Calorías</h3>', prose)
+            prose = re.sub(r'<h2>Burger King Breakfast Calories.*?</h2>', '<h2>Calorías del Desayuno Burger King – Croissan\'wiches y Opciones Matutinas</h2>', prose)
+            prose = re.sub(r'<h2>Burger King Burgers.*?</h2>', '<h2>Calorías de Hamburguesas Burger King – WHOPPER® y Parrilla</h2>', prose)
+            prose = re.sub(r'<h2>Chicken &amp; Snacks Calories</h2>', '<h2>Calorías de Pollo y Snacks</h2>', prose)
+            prose = re.sub(r'<h2>Sides &amp; Dips Calories</h2>', '<h2>Calorías de Acompañamientos y Salsas</h2>', prose)
+            prose = re.sub(r'<h2>Desserts &amp; Sweet Treats Calories</h2>', '<h2>Calorías de Postres y Dulces</h2>', prose)
+            prose = re.sub(r'<h2>Drinks &amp; Hot Beverages Calories</h2>', '<h2>Calorías de Bebidas y Cafés</h2>', prose)
+            prose = re.sub(r'<h2>Tips for Choosing Healthier Options.*?</h2>', '<h2>Consejos para Elegir Opciones Más Saludables en Burger King</h2>', prose)
+            prose = re.sub(r'<h2>Frequently Asked Questions.*?</h2>', '<h2>Preguntas Frecuentes sobre Calorías en Burger King</h2>', prose)
+        elif lang == 'fr':
+            prose = re.sub(r'<h2>Introduction: Understanding Calories at Burger King UK</h2>', '<h2>Introduction : Comprendre les Calories chez Burger King UK</h2>', prose)
+            prose = re.sub(r'<h2>Daily Calorie Intake Guidelines in the UK</h2>', '<h2>Recommandations d\'Apports Journaliers au Royaume-Uni</h2>', prose)
+            prose = re.sub(r'<h3>Recommended Daily Calorie Intake</h3>', '<h3>Apport Quotidien Recommandé en Calories</h3>', prose)
+            prose = re.sub(r'<h2>Burger King Breakfast Calories.*?</h2>', '<h2>Calories du Petit-déjeuner Burger King – Croissan\'wiches et Matin</h2>', prose)
+            prose = re.sub(r'<h2>Burger King Burgers.*?</h2>', '<h2>Calories des Burgers Burger King – WHOPPER® et Grillades</h2>', prose)
+            prose = re.sub(r'<h2>Chicken &amp; Snacks Calories</h2>', '<h2>Calories du Poulet &amp; Snacks</h2>', prose)
+            prose = re.sub(r'<h2>Sides &amp; Dips Calories</h2>', '<h2>Calories des Accompagnements &amp; Sauces</h2>', prose)
+            prose = re.sub(r'<h2>Desserts &amp; Sweet Treats Calories</h2>', '<h2>Calories des Desserts &amp; Douceurs</h2>', prose)
+            prose = re.sub(r'<h2>Drinks &amp; Hot Beverages Calories</h2>', '<h2>Calories des Boissons Fraîches &amp; Chaudes</h2>', prose)
+            prose = re.sub(r'<h2>Tips for Choosing Healthier Options.*?</h2>', '<h2>Conseils pour des Choix Plus Sains chez Burger King</h2>', prose)
+            prose = re.sub(r'<h2>Frequently Asked Questions.*?</h2>', '<h2>Foire Aux Questions sur les Calories Burger King</h2>', prose)
+        elif lang == 'de':
+            prose = re.sub(r'<h2>Introduction: Understanding Calories at Burger King UK</h2>', '<h2>Einführung: Kalorienangaben bei Burger King UK verstehen</h2>', prose)
+            prose = re.sub(r'<h2>Daily Calorie Intake Guidelines in the UK</h2>', '<h2>Richtwerte für den täglichen Kalorienbedarf (UK)</h2>', prose)
+            prose = re.sub(r'<h3>Recommended Daily Calorie Intake</h3>', '<h3>Empfohlene tägliche Kalorienzufuhr</h3>', prose)
+            prose = re.sub(r'<h2>Burger King Breakfast Calories.*?</h2>', '<h2>Burger King Frühstückskalorien – Croissan\'wiches &amp; Morgenmenü</h2>', prose)
+            prose = re.sub(r'<h2>Burger King Burgers.*?</h2>', '<h2>Burger King Burger Kalorien – WHOPPER® &amp; Grill-Klassiker</h2>', prose)
+            prose = re.sub(r'<h2>Chicken &amp; Snacks Calories</h2>', '<h2>Hähnchen &amp; Snacks Kalorientabelle</h2>', prose)
+            prose = re.sub(r'<h2>Sides &amp; Dips Calories</h2>', '<h2>Beilagen &amp; Saucen Kalorien</h2>', prose)
+            prose = re.sub(r'<h2>Desserts &amp; Sweet Treats Calories</h2>', '<h2>Desserts &amp; Süßspeisen Kalorien</h2>', prose)
+            prose = re.sub(r'<h2>Drinks &amp; Hot Beverages Calories</h2>', '<h2>Getränke &amp; Kaffeespezialitäten Kalorien</h2>', prose)
+            prose = re.sub(r'<h2>Tips for Choosing Healthier Options.*?</h2>', '<h2>Tipps für eine gesündere Auswahl bei Burger King</h2>', prose)
+            prose = re.sub(r'<h2>Frequently Asked Questions.*?</h2>', '<h2>Häufige Fragen zu Burger King Kalorien</h2>', prose)
+        elif lang == 'hi':
+            prose = re.sub(r'<h2>Introduction: Understanding Calories at Burger King UK</h2>', '<h2>परिचय: बर्गर किंग यूके में कैलोरी को समझें</h2>', prose)
+            prose = re.sub(r'<h2>Daily Calorie Intake Guidelines in the UK</h2>', '<h2>दैनिक कैलोरी आवश्यकता (यूके दिशानिर्देश)</h2>', prose)
+            prose = re.sub(r'<h3>Recommended Daily Calorie Intake</h3>', '<h3>दैनिक अनुशंसित कैलोरी सेवन</h3>', prose)
+            prose = re.sub(r'<h2>Burger King Breakfast Calories.*?</h2>', '<h2>बर्गर किंग ब्रेकफास्ट कैलोरी – क्रॉसों\'विच और मॉर्निंग विकल्प</h2>', prose)
+            prose = re.sub(r'<h2>Burger King Burgers.*?</h2>', '<h2>बर्गर किंग बर्गर कैलोरी – व्हॉपर® और फ्लेम-ग्रिल्ड आइटम्स</h2>', prose)
+            prose = re.sub(r'<h2>Chicken &amp; Snacks Calories</h2>', '<h2>चिकन और स्नैक्स कैलोरी तालिका</h2>', prose)
+            prose = re.sub(r'<h2>Sides &amp; Dips Calories</h2>', '<h2>साइड्स और डिप्स कैलोरी</h2>', prose)
+            prose = re.sub(r'<h2>Desserts &amp; Sweet Treats Calories</h2>', '<h2>डेसर्ट और मीठा कैलोरी</h2>', prose)
+            prose = re.sub(r'<h2>Drinks &amp; Hot Beverages Calories</h2>', '<h2>ड्रिंक्स और गर्म पेय पदार्थ कैलोरी</h2>', prose)
+            prose = re.sub(r'<h2>Tips for Choosing Healthier Options.*?</h2>', '<h2>बर्गर किंग में स्वस्थ विकल्प चुनने के लिए टिप्स</h2>', prose)
+            prose = re.sub(r'<h2>Frequently Asked Questions.*?</h2>', '<h2>बर्गर किंग कैलोरी के बारे में अक्सर पूछे जाने वाले सवाल</h2>', prose)
+
     body = f'''      <div class="prose-page">
         <div class="page-hero fade-in">
           <h1>{meta['title']}</h1>
           <p>{meta['desc']}</p>
         </div>
 
-        <div class="prose fade-in">
+        <div class="prose">
 {prose}
         </div>
       </div>'''
