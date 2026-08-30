@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /es/
+Allow: /fr/
+Allow: /de/
+Allow: /hi/
+
+Sitemap: https://burgerkingbreakfastmenu.co.uk/sitemap.xml
