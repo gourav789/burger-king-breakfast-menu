@@ -220,9 +220,10 @@ def generate_calories_page(lang, base_prose):
     return build_page_wrapper(lang, 'calories', body)
 
 def build_sitemap():
-    """Builds a comprehensive multilingual sitemap with xhtml:link hreflangs"""
+    """Builds a comprehensive multilingual sitemap with xhtml:link hreflangs and XSL stylesheet"""
     xml_lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
+        '<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
         '        xmlns:xhtml="http://www.w3.org/1999/xhtml">'
     ]
