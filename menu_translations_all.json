@@ -1,0 +1,2612 @@
+{
+  "en": {
+    "Fully Loaded Croissanwich with Egg.gmsr.png": {
+      "name": "Fully Loaded Croissanwich® with Egg",
+      "desc": "The ultimate BK breakfast sandwich — sausage, crispy bacon, a fresh egg, and melted cheese, all wrapped in a warm, flaky croissant bun. Maximum flavour, maximum satisfaction.",
+      "badge": "⭐ Best Seller"
+    },
+    "Beef Croissan’wich with Egg.gmsr.png": {
+      "name": "Beef Croissan'wich® with Egg",
+      "desc": "A flame-grilled beef patty layered with a fresh egg and melted cheese in a warm, buttery croissant. The signature smoky beef flavour makes this a firm favourite.",
+      "badge": "🔥 Popular"
+    },
+    "Beefacon Croissan’wich with Egg.gmsr.png": {
+      "name": "Beefacon Croissan'wich® with Egg",
+      "desc": "The best of beef and bacon together — a flame-grilled beef patty with crispy bacon, egg, and cheese on a golden croissant. Rich, satisfying, and deeply flavourful.",
+      "badge": ""
+    },
+    "Chicken Strips Croissan’wich with Egg.gmsr.png": {
+      "name": "Chicken Strips Croissan'wich® with Egg",
+      "desc": "Crispy chicken strips with a fresh egg and melted cheese in a flaky croissant bun. A satisfying chicken breakfast option with great crunch in every bite.",
+      "badge": ""
+    },
+    "Chick’N Crisp Croissan’wich with Egg.gmsr.png": {
+      "name": "Chick'N Crisp Croissan'wich® with Egg",
+      "desc": "A lighter crispy chicken fillet with egg and cheese on a warm croissant. Satisfying without being too heavy — perfect for a lighter morning bite.",
+      "badge": ""
+    },
+    "Breakfast King.gmsr.avif": {
+      "name": "Breakfast King",
+      "desc": "The monarch of morning burgers. A hearty flame-grilled breakfast burger with all the classic breakfast elements in one royal bite. For those who want a proper morning burger experience.",
+      "badge": "👑 The King"
+    },
+    "Potato Bites.gmsr.png": {
+      "name": "Potato Bites",
+      "desc": "Golden, crispy potato bites — the must-have breakfast side. Light, crunchy on the outside and fluffy within, these are the perfect companion to any Croissan'wich.",
+      "badge": ""
+    },
+    "Espresso.gmsr.png": {
+      "name": "Espresso",
+      "desc": "Bold, rich single-shot espresso. The purest coffee experience on the BK breakfast drinks menu — intense, aromatic, and exactly what a morning needs.",
+      "badge": ""
+    },
+    "Americano.gmsr.avif": {
+      "name": "Americano",
+      "desc": "A double shot of espresso diluted with hot water for a smooth, strong black coffee. Classic, clean, and endlessly drinkable alongside any breakfast item.",
+      "badge": ""
+    },
+    "Double WHOPPER.gmsr.avif": {
+      "name": "Double WHOPPER®",
+      "desc": "Two flame-grilled beef patties stacked with all the classic WHOPPER toppings. When one patty simply isn't enough, the Double WHOPPER delivers double the satisfaction.",
+      "badge": ""
+    },
+    "WHOPPER with Bacon and Cheese.gmsr.avif": {
+      "name": "WHOPPER® with Bacon &amp; Cheese",
+      "desc": "The classic WHOPPER elevated with crispy bacon and a generous slice of melted cheese. Richer, saltier, and even more satisfying than the original.",
+      "badge": ""
+    },
+    "Double WHOPPER with Bacon and Cheese.gmsr.avif": {
+      "name": "Double WHOPPER® with Bacon &amp; Cheese",
+      "desc": "Two flame-grilled patties with bacon and melted cheese — the pinnacle of WHOPPER indulgence. For serious burger enthusiasts only.",
+      "badge": ""
+    },
+    "Big King.gmsr.avif": {
+      "name": "Big King",
+      "desc": "Two juicy flame-grilled beef patties with special Big King sauce on a sesame seed bun. BK's answer to the stacked burger — bold flavour in a classic format.",
+      "badge": ""
+    },
+    "Big King Little King.gmsr.avif": {
+      "name": "Big King Little King",
+      "desc": "A compact version of the Big King, delivering all the stacked burger flavour in a more manageable size. Perfect as a snack or a lighter meal option.",
+      "badge": ""
+    },
+    "Big King Royale.gmsr.avif": {
+      "name": "Big King Royale",
+      "desc": "The Big King with a royal upgrade — enhanced toppings and sauce for a more premium multi-layer burger experience.",
+      "badge": ""
+    },
+    "Big King Double Royale.gmsr.avif": {
+      "name": "Big King Double Royale",
+      "desc": "Double the patties, double the Royale experience. An impressive stack of flame-grilled beef with premium sauce and toppings.",
+      "badge": ""
+    },
+    "Chicken Royale.gmsr.png": {
+      "name": "Chicken Royale",
+      "desc": "BK's flagship chicken burger — a crispy, tender chicken fillet with lettuce and mayo on a soft sesame bun. Simple, classic, and always satisfying.",
+      "badge": "🔥 Fan Fave"
+    },
+    "Double Chicken Royale.gmsr.avif": {
+      "name": "Double Chicken Royale",
+      "desc": "Two crispy chicken fillets stacked for double the crunch and double the satisfaction. The ultimate BK chicken burger experience.",
+      "badge": ""
+    },
+    "Chicken Royale Bacon & Cheese.gmsr.avif": {
+      "name": "Chicken Royale Bacon &amp; Cheese",
+      "desc": "The classic Chicken Royale enhanced with crispy bacon and melted cheese. A step up from the original in richness and flavour complexity.",
+      "badge": ""
+    },
+    "Double Chicken Royale Bacon & Cheese.gmsr.avif": {
+      "name": "Double Chicken Royale Bacon &amp; Cheese",
+      "desc": "Two crispy chicken fillets, crispy bacon strips, and melted cheese. The most fully-loaded BK chicken burger available.",
+      "badge": ""
+    },
+    "Cheeseburger.gmsr.avif": {
+      "name": "Cheeseburger",
+      "desc": "A simple, classic flame-grilled beef patty with American cheese. Pure, unfussy, and reliably delicious. A timeless menu staple.",
+      "badge": ""
+    },
+    "Double Cheeseburger.gmsr.avif": {
+      "name": "Double Cheeseburger",
+      "desc": "Two flame-grilled beef patties with double the American cheese. More meat, more cheese, more satisfaction for those with a bigger appetite.",
+      "badge": ""
+    },
+    "Bacon Double Cheeseburger.gmsr.avif": {
+      "name": "Bacon Double Cheeseburger",
+      "desc": "Double patties, double cheese, and crispy bacon. The triple threat of the BK value burger range — substantial and full of flavour.",
+      "badge": ""
+    },
+    "Bacon Double Cheese XL.gmsr.avif": {
+      "name": "Bacon Double Cheese XL",
+      "desc": "The XL upgrade — extra-large patties, extra cheese, and extra bacon in a bigger bun. For those who want everything bigger and bolder.",
+      "badge": ""
+    },
+    "Hamburger.gmsr.avif": {
+      "name": "Hamburger",
+      "desc": "The original. A single flame-grilled beef patty with classic condiments. Sometimes the simplest things are the most satisfying.",
+      "badge": ""
+    },
+    "Plant-Based WHOPPER.gmsr.avif": {
+      "name": "Plant-Based WHOPPER®",
+      "desc": "All the iconic WHOPPER flavour with a plant-based patty. Flame-grilled and loaded with the same fresh toppings — a game-changer for plant-based fast food.",
+      "badge": "🌱 Plant-Based"
+    },
+    "Vegan Royale.gmsr.avif": {
+      "name": "Vegan Royale",
+      "desc": "A plant-based crispy fillet burger with vegan mayo and fresh lettuce. Proves that vegan fast food can be just as satisfying as the original.",
+      "badge": "🌱 Vegan"
+    },
+    "BBQ Steakhouse Angus.gmsr.avif": {
+      "name": "Wagyu Wellington",
+      "desc": "An indulgent premium burger featuring Wagyu beef with Wellington-inspired garnishes. BK's most luxurious burger experience — a special treat.",
+      "badge": "✨ Premium"
+    },
+    "BBQ Steakhouse Crispy Chicken.gmsr.avif": {
+      "name": "The Wagyu",
+      "desc": "Premium Wagyu beef in a classic Burger King format. Richer marbling means more flavour and a more tender eating experience than standard beef.",
+      "badge": "✨ Premium"
+    },
+    "Chicken Nuggets.gmsr.avif": {
+      "name": "Chicken Nuggets",
+      "desc": "Juicy, tender chicken pieces in a crispy golden coating. BK nuggets are consistently rated among the best fast-food nuggets in the UK for texture and flavour.",
+      "badge": "🔥 Fan Fave"
+    },
+    "9pc Pringles Sour Cream & Onion Chicken Fries.gmsr.avif": {
+      "name": "9pc Pringles Sour Cream &amp; Onion Chicken Fries",
+      "desc": "The legendary Pringles collaboration — chicken fries coated in Sour Cream &amp; Onion flavour. Addictively good and unlike anything else on the BK menu.",
+      "badge": ""
+    },
+    "Garlic & Jalapeno Chicken Fries.gmsr.avif": {
+      "name": "Garlic &amp; Jalapeño Chicken Fries",
+      "desc": "A spicy, garlicky coating on crispy chicken fries. For those who love heat and bold flavour in their snacking — seriously addictive.",
+      "badge": ""
+    },
+    "Chilli Cheese Bites.gmsr.avif": {
+      "name": "Chilli Cheese Bites",
+      "desc": "Crispy bites filled with melted cheese and a chilli kick. A punchy, indulgent snack that brings real heat and cheesy satisfaction together perfectly.",
+      "badge": ""
+    },
+    "Burger Buddies (3pc).gmsr.avif": {
+      "name": "Burger Buddies (3pc)",
+      "desc": "Three mini beef sliders — bite-sized burgers that pack a surprising amount of BK's signature flame-grilled flavour. Great as a snack or light meal.",
+      "badge": ""
+    },
+    "Burger Buddies (9pc).gmsr.avif": {
+      "name": "Burger Buddies (9pc)",
+      "desc": "Nine mini sliders for sharing — or not. The 9pc Burger Buddies pack is ideal for groups, parties, or solo guests who seriously love mini burgers.",
+      "badge": ""
+    },
+    "Classic Chicken Melt.gmsr.avif": {
+      "name": "Classic Chicken Melt",
+      "desc": "Crispy chicken with a generous pour of melted cheese sauce in a toasted bun. Comforting, indulgent, and deeply satisfying.",
+      "badge": ""
+    },
+    "Classic Double Beef Melt.gmsr.avif": {
+      "name": "Classic Double Beef Melt",
+      "desc": "Two flame-grilled beef patties smothered in rich, melted cheese sauce. A decadent option that takes the classic cheeseburger to new heights.",
+      "badge": ""
+    },
+    "Fries.gmsr.avif": {
+      "name": "Fries",
+      "desc": "BK's golden, crispy fries — the original and the essential. Salted, crispy, and perfectly consistent every single time.",
+      "badge": "🔥 Classic"
+    },
+    "Onion Rings.gmsr.avif": {
+      "name": "Onion Rings",
+      "desc": "Crispy battered onion rings with a sweet, tender centre. BK's onion rings are a British fast-food institution and always worth ordering.",
+      "badge": ""
+    },
+    "Loaded King Fries.gmsr.avif": {
+      "name": "Loaded King Fries",
+      "desc": "Golden BK fries topped with rich sauce and toppings. An elevated side experience that turns simple fries into something genuinely special.",
+      "badge": ""
+    },
+    "Loaded King Fries With Bacon.gmsr.avif": {
+      "name": "Loaded King Fries with Bacon",
+      "desc": "Loaded fries taken to the next level with crispy bacon pieces — the salty, savoury crunch of bacon over creamy loaded fries is irresistible.",
+      "badge": ""
+    },
+    "Truffle Loaded King Fries.gmsr.avif": {
+      "name": "Truffle Loaded King Fries",
+      "desc": "BK's most premium side — golden fries drizzled with luxurious truffle sauce. Brings a gourmet touch to your fast-food meal without the gourmet price.",
+      "badge": ""
+    },
+    "Loaded Force Fries.gmsr.avif": {
+      "name": "Loaded Force Fries",
+      "desc": "A galaxy-inspired loaded fries creation — special sauce and toppings that pack interstellar flavour. A limited edition favourite.",
+      "badge": ""
+    },
+    "Halloumi Fries.gmsr.avif": {
+      "name": "Halloumi Fries",
+      "desc": "Crispy, golden halloumi in a fries format — squeaky, salty, and satisfying. The best vegetarian side option on the BK menu, beloved by veggies and meat-eaters alike.",
+      "badge": "🧀 Veggie"
+    },
+    "BBQ Dip Pot.gmsr.avif": {
+      "name": "BBQ Dip Pot",
+      "desc": "Smoky, tangy BBQ dipping sauce — the classic pairing with nuggets, fries, or onion rings. Always hits the spot.",
+      "badge": ""
+    },
+    "Sweet Chilli Dip Pot.gmsr.avif": {
+      "name": "Sweet Chilli Dip Pot",
+      "desc": "Sweet with a satisfying chilli heat — perfect with chicken nuggets, halloumi fries, or as a burger sauce alternative.",
+      "badge": ""
+    },
+    "Cheddar Cheese Sauce XL.gmsr.avif": {
+      "name": "Cheddar Cheese Sauce XL",
+      "desc": "A generous XL portion of warm, melted cheddar cheese dipping sauce. Pour over fries, dip nuggets, or eat with a spoon — we won't judge.",
+      "badge": ""
+    },
+    "BBQ Stacker King Box – Beef.gmsr.avif": {
+      "name": "BBQ Stacker King Box – Beef",
+      "desc": "A complete BBQ beef experience in a box — BBQ burger, fries or rings, sauce, and a drink. Great value and genuinely satisfying as a complete meal.",
+      "badge": "📦 Box Deal"
+    },
+    "BBQ Stacker King Box – Chicken.gmsr.avif": {
+      "name": "BBQ Stacker King Box – Chicken",
+      "desc": "The chicken version of the BBQ Stacker Box — crispy BBQ chicken burger with sides and drink. Equally satisfying and better value than ordering à la carte.",
+      "badge": "📦 Box Deal"
+    },
+    "Beef Melt King Box.gmsr.avif": {
+      "name": "Beef Melt King Box",
+      "desc": "The Beef Melt as a complete box meal — cheesy beef burger, sides, and drink for a fully loaded lunch experience.",
+      "badge": ""
+    },
+    "Chicken Melt King Box.gmsr.avif": {
+      "name": "Chicken Melt King Box",
+      "desc": "Complete Chicken Melt meal in a king box — crispy chicken with melted cheese sauce, plus sides and drink for a great all-in-one deal.",
+      "badge": ""
+    },
+    "Chicken Melt Meal.gmsr.avif": {
+      "name": "Chicken Melt Meal",
+      "desc": "Classic meal deal format — Chicken Melt burger with fries and your choice of drink. Streamlined, satisfying, and great value.",
+      "badge": ""
+    },
+    "Double Beef Melt Meal.gmsr.avif": {
+      "name": "Double Beef Melt Meal",
+      "desc": "The double beef melt as a complete meal — two cheesy beef patties with sides and drink for those with a serious appetite.",
+      "badge": ""
+    },
+    "Beef Melt & Fries.gmsr.avif": {
+      "name": "Beef Melt &amp; Fries",
+      "desc": "Simple and satisfying — a cheesy beef melt burger paired with golden BK fries. A classic pairing that never disappoints.",
+      "badge": ""
+    },
+    "Chicken Melt & Fries.gmsr.avif": {
+      "name": "Chicken Melt &amp; Fries",
+      "desc": "Crispy chicken melt paired with golden BK fries. The chicken version of the classic burger-and-fries pairing — always a reliable choice.",
+      "badge": ""
+    },
+    "Pringles Sour Cream & Onion King Box – Beef Melts.gmsr.avif": {
+      "name": "Pringles Sour Cream &amp; Onion King Box – Beef Melts",
+      "desc": "The Pringles collaboration box — a beef melt meal plus Pringles Sour Cream &amp; Onion Chicken Fries. A uniquely flavoured fast-food collaboration.",
+      "badge": "🎉 Special"
+    },
+    "Kids Cheeseburger Meal.gmsr.avif": {
+      "name": "Kids Cheeseburger Meal",
+      "desc": "A perfectly sized kids' cheeseburger meal with age-appropriate sides and drink. Balanced portions that satisfy little appetites without overwhelming them.",
+      "badge": "👶 Kids"
+    },
+    "Kids Hamburger Meal.gmsr.avif": {
+      "name": "Kids Hamburger Meal",
+      "desc": "The classic kids' hamburger meal — a flame-grilled mini burger with sides and drink sized perfectly for younger diners.",
+      "badge": "👶 Kids"
+    },
+    "Kids Chicken Nuggets Meal.gmsr.avif": {
+      "name": "Kids Chicken Nuggets Meal",
+      "desc": "Kids' nugget meal — tender chicken nuggets with sides and a juice drink. The most popular kids' meal option at Burger King UK.",
+      "badge": "👶 Kids"
+    },
+    "Kids Whopper Meal.gmsr.avif": {
+      "name": "Kids Whopper Meal",
+      "desc": "A mini WHOPPER® experience for younger visitors — all the iconic BK flavour in a perfectly sized kids' meal format.",
+      "badge": "👶 Kids"
+    },
+    "Galactic Mandalorian Chicken Royale Meal.gmsr.avif": {
+      "name": "Galactic Mandalorian Chicken Royale Meal",
+      "desc": "The Force-themed collaboration — Chicken Royale meal in Mandalorian Star Wars packaging. May the flavour be with you.",
+      "badge": "⭐ Limited"
+    },
+    "Vanilla Sundae.gmsr.avif": {
+      "name": "Vanilla Sundae",
+      "desc": "Creamy vanilla soft serve in a classic sundae cup. Simple, clean, and a perfect palette cleanser after a rich burger meal.",
+      "badge": ""
+    },
+    "Chocolate Sundae.gmsr.avif": {
+      "name": "Chocolate Sundae",
+      "desc": "Smooth vanilla soft serve topped with rich chocolate sauce. A timeless dessert combination that satisfies the most persistent sweet tooth.",
+      "badge": ""
+    },
+    "Strawberry Sundae.gmsr.avif": {
+      "name": "Strawberry Sundae",
+      "desc": "Creamy soft serve with a sweet, fruity strawberry sauce topping. Light, refreshing, and the perfect summer dessert option.",
+      "badge": ""
+    },
+    "Salted Caramel Sundae.gmsr.avif": {
+      "name": "Salted Caramel Sundae",
+      "desc": "The contemporary favourite — vanilla soft serve with salted caramel drizzle. Sweet, salty, creamy, and utterly irresistible.",
+      "badge": ""
+    },
+    "Grogu’s Sundae.gmsr.avif": {
+      "name": "Grogu's Sundae",
+      "desc": "The Instagram-famous Baby Yoda inspired sundae from the Mandalorian collaboration. As adorable as it is delicious — a limited edition must-try.",
+      "badge": "⭐ Special"
+    },
+    "Mini Grogu’s Sundae.gmsr.avif": {
+      "name": "Mini Grogu's Sundae",
+      "desc": "A smaller version of the famous Grogu's Sundae — perfect for little fans of The Mandalorian who want their very own cute dessert.",
+      "badge": ""
+    },
+    "Vanilla Milkshake.gmsr.avif": {
+      "name": "Vanilla Milkshake",
+      "desc": "Thick and creamy vanilla milkshake — sweet, cold, and satisfying. The classic choice when you want something indulgent to drink.",
+      "badge": ""
+    },
+    "Chocolate Milkshake.gmsr.avif": {
+      "name": "Chocolate Milkshake",
+      "desc": "Rich, indulgent chocolate milkshake made with soft serve ice cream and chocolate flavouring. The quintessential fast food dessert drink.",
+      "badge": ""
+    },
+    "Strawberry Milkshake.gmsr.avif": {
+      "name": "Strawberry Milkshake",
+      "desc": "Sweet, fruity, and refreshingly pink — BK's strawberry milkshake is a crowd-pleaser for all ages.",
+      "badge": ""
+    },
+    "Salted Caramel Milkshake.gmsr.avif": {
+      "name": "Salted Caramel Milkshake",
+      "desc": "A premium milkshake with the on-trend salted caramel flavour — rich, sweet, and salty in perfect harmony.",
+      "badge": ""
+    },
+    "Twix Shake.gmsr.avif": {
+      "name": "Twix Shake",
+      "desc": "A milkshake inspired by the Twix chocolate bar — caramel, biscuit, and chocolate in a creamy, drinkable format. A chocolate lover's dream.",
+      "badge": ""
+    },
+    "Smarties Fusion.gmsr.avif": {
+      "name": "Smarties Fusion",
+      "desc": "BK's soft serve blended with colourful Smarties pieces. A playful, vibrant dessert that brings out the inner child in everyone who orders it.",
+      "badge": ""
+    },
+    "Twix Fusion.gmsr.avif": {
+      "name": "Twix Fusion",
+      "desc": "Soft serve blended with pieces of Twix bar — caramel and biscuit chunks in creamy ice cream. Indulgent, sweet, and impossible to resist.",
+      "badge": ""
+    },
+    "King Fusion – Smarties.gmsr.avif": {
+      "name": "King Fusion – Smarties",
+      "desc": "BK's signature King Fusion ice cream treat with Smarties blended in. Colourful, fun, and utterly delicious.",
+      "badge": ""
+    },
+    "Mini Smarties Fusion.gmr.avif": {
+      "name": "Mini Smarties Fusion",
+      "desc": "A smaller portion of the Smarties Fusion — ideal for those who want a lighter sweet treat or for younger diners.",
+      "badge": ""
+    },
+    "Mini Twix Fusion.gmsr.avif": {
+      "name": "Mini Twix Fusion",
+      "desc": "All the Twix fusion goodness in a smaller, more manageable portion. Perfect for kids or as a light dessert option.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Cookie Dough.gmsr.avif": {
+      "name": "Ben &amp; Jerry's Cookie Dough",
+      "desc": "The world-famous Ben &amp; Jerry's Cookie Dough ice cream, available at BK. Vanilla ice cream with chunks of cookie dough throughout — a global favourite.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Chocolate Fudge Brownie.gmsr.avif": {
+      "name": "Ben &amp; Jerry's Chocolate Fudge Brownie",
+      "desc": "Chocolate ice cream with rich fudge brownie chunks from Ben &amp; Jerry's. The ultimate chocolate indulgence for dessert lovers.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Caramel Chew Chew.gmsr.avif": {
+      "name": "Ben &amp; Jerry's Caramel Chew Chew",
+      "desc": "Caramel ice cream with caramel ribbons and fudge pieces — Ben &amp; Jerry's caramel-lover's dream in a pot at BK.",
+      "badge": ""
+    },
+    "Chocolate Brownie Cheesecake Bar.gmsr.avif": {
+      "name": "Chocolate Brownie Cheesecake Bar",
+      "desc": "Indulgent chocolate brownie cheesecake in convenient bar form — rich, fudgy, and creamy all at once. A dessert bar worth every calorie.",
+      "badge": ""
+    },
+    "Gooey Salted Caramel Cheesecake Bar.gmsr.avif": {
+      "name": "Gooey Salted Caramel Cheesecake Bar",
+      "desc": "Gooey salted caramel filling in a creamy cheesecake bar — sweet, salty, and extraordinarily satisfying as a post-meal dessert.",
+      "badge": ""
+    },
+    "Strawberry Milkshake Cheesecake Bar.gmsr.avif": {
+      "name": "Strawberry Milkshake Cheesecake Bar",
+      "desc": "Strawberry milkshake flavoured cheesecake bar — fruity, creamy, and light. A fresh dessert bar option that doesn't feel overly heavy.",
+      "badge": ""
+    },
+    "Coca-Cola.gmsr.avif": {
+      "name": "Coca-Cola®",
+      "desc": "The world's most iconic soft drink. Ice cold, perfectly carbonated — the classic pairing with any BK burger.",
+      "badge": ""
+    },
+    "Diet Coca-Cola.gmsr.avif": {
+      "name": "Diet Coca-Cola®",
+      "desc": "All the Coca-Cola flavour with significantly fewer calories. The go-to choice for those watching their calorie intake without sacrificing the Coke experience.",
+      "badge": ""
+    },
+    "Coca-Cola Zero.gmsr.avif": {
+      "name": "Coca-Cola Zero Sugar",
+      "desc": "The full Coca-Cola taste experience with zero sugar. Reformulated to taste closer to original Coke than Diet Coke — many prefer it.",
+      "badge": ""
+    },
+    "Fanta Zero.gmsr.avif": {
+      "name": "Fanta Zero",
+      "desc": "Fruity, fizzy Fanta flavour with zero sugar. A great lighter alternative to the regular Fanta for those monitoring sugar intake.",
+      "badge": ""
+    },
+    "Sprite Zero.gmsr.avif": {
+      "name": "Sprite Zero",
+      "desc": "Crisp, clean lemon-lime flavour with zero sugar. A refreshing, palate-cleansing choice that pairs well with rich, flavourful BK burgers.",
+      "badge": ""
+    },
+    "Dr Pepper Zero.gmsr.avif": {
+      "name": "Dr Pepper Zero",
+      "desc": "The unique 23-flavour Dr Pepper blend in a zero sugar format. For those who want something a little different from the mainstream cola options.",
+      "badge": ""
+    },
+    "Frozen Fanta – Blue Raspberry.gmsr.avif": {
+      "name": "Frozen Fanta – Blue Raspberry",
+      "desc": "An icy blue raspberry frozen slushie — cold, sweet, and instantly refreshing. Perfect on a warm day or as a fun treat alongside any meal.",
+      "badge": ""
+    },
+    "Frozen Fanta – Strawberry.gmsr.avif": {
+      "name": "Frozen Fanta – Strawberry",
+      "desc": "Sweet, fruity strawberry frozen slushie — a popular choice for younger diners and anyone who loves a fresh, cold fruit drink.",
+      "badge": ""
+    },
+    "Frozen Fanta – Strawberry & Blue Raspberry.gmsr.avif": {
+      "name": "Frozen Fanta – Strawberry &amp; Blue Raspberry",
+      "desc": "The best of both frozen worlds combined — strawberry and blue raspberry together in one vibrant, dual-tone frozen drink.",
+      "badge": ""
+    },
+    "Monster Original 500ml.gmsr.avif": {
+      "name": "Monster Energy Original 500ml",
+      "desc": "The original green Monster energy drink in a full 500ml can. The go-to energy drink for those who need a serious afternoon or post-breakfast boost.",
+      "badge": ""
+    },
+    "Monster Mango Loco 500ml.gmsr.avif": {
+      "name": "Monster Mango Loco 500ml",
+      "desc": "Tropical mango flavoured Monster energy drink — all the energy boost of the original with a fruity, exotic twist.",
+      "badge": ""
+    },
+    "Monster Ultra White Zero Sugar 500ml.gmsr.avif": {
+      "name": "Monster Ultra White Zero Sugar 500ml",
+      "desc": "Light, crisp citrus flavour with zero sugar. The cleaner energy drink option for health-conscious consumers who still need the Monster energy kick.",
+      "badge": ""
+    },
+    "Cappuccino.gmsr.avif": {
+      "name": "Cappuccino",
+      "desc": "Equal parts espresso, steamed milk, and frothed milk foam. The classic Italian breakfast coffee — smooth, balanced, and deeply satisfying.",
+      "badge": ""
+    },
+    "Latte.gmsr.avif": {
+      "name": "Latte",
+      "desc": "Espresso with generous steamed milk for a longer, creamier coffee drink. The most accessible coffee drink on the menu — perfect for coffee beginners and regulars alike.",
+      "badge": ""
+    },
+    "Flat White.gmsr.avif": {
+      "name": "Flat White",
+      "desc": "Strong espresso with velvety micro-foamed milk in a smaller volume than a latte. The specialist's choice — intense coffee flavour with silky texture.",
+      "badge": ""
+    },
+    "Hot Chocolate.gmsr.avif": {
+      "name": "Hot Chocolate",
+      "desc": "Rich, warming, deeply chocolatey — the perfect non-coffee hot drink. Comforting in winter, indulgent year-round, and great alongside any breakfast item.",
+      "badge": ""
+    },
+    "Tea.gmsr.avif": {
+      "name": "Tea",
+      "desc": "A proper British cup of tea — hot, strong, and perfectly brewed. Nothing starts the day in the UK quite like a good cup of tea alongside breakfast.",
+      "badge": ""
+    },
+    "Semi-Skimmed Milk.gmsr.avif": {
+      "name": "Semi-Skimmed Milk",
+      "desc": "Cold, fresh semi-skimmed milk. A pure, nutritious drink option for those who prefer something simple alongside their meal.",
+      "badge": ""
+    },
+    "Bottled Water.gmsr.avif": {
+      "name": "Bottled Water",
+      "desc": "Clean, still water in a convenient bottle. The straightforward, calorie-free hydration option for any meal or occasion.",
+      "badge": ""
+    },
+    "Innocent Kids Juicy Water Apples And Mangoes.gmsr.avif": {
+      "name": "Innocent Kids Juicy Water – Apples &amp; Mangoes",
+      "desc": "A healthy, fruit-based juicy water for children from the Innocent Kids range. Low sugar, naturally flavoured, and a great kids' drinks choice at BK.",
+      "badge": "👶 Kids"
+    },
+    "Innocent Kids Juicy Water Apples And Strawberries.gmsr.avif": {
+      "name": "Innocent Kids Juicy Water – Apples &amp; Strawberries",
+      "desc": "Another delicious Innocent Kids option — apple and strawberry fruit water that's refreshing, healthy, and perfect for younger BK diners.",
+      "badge": "👶 Kids"
+    }
+  },
+  "es": {
+    "Fully Loaded Croissanwich with Egg.gmsr.png": {
+      "name": "Fully Loaded Croissanwich® con Huevo",
+      "desc": "El sándwich de desayuno definitivo de BK: salchicha, beicon crujiente, huevo fresco y queso fundido en un cruasán caliente y hojaldrado.",
+      "badge": "⭐ Más Vendido"
+    },
+    "Beef Croissan’wich with Egg.gmsr.png": {
+      "name": "Beef Croissan'wich® con Huevo",
+      "desc": "Hamburguesa de ternera a la parrilla con huevo fresco y queso fundido en un panecillo de cruasán mantecoso.",
+      "badge": "🔥 Popular"
+    },
+    "Beefacon Croissan’wich with Egg.gmsr.png": {
+      "name": "Beefacon Croissan'wich® con Huevo",
+      "desc": "Hamburguesa de ternera a la parrilla con huevo fresco y queso fundido en un panecillo de cruasán mantecoso.",
+      "badge": ""
+    },
+    "Chicken Strips Croissan’wich with Egg.gmsr.png": {
+      "name": "Chicken Strips Croissan'wich® con Huevo",
+      "desc": "Tiras de pollo crujiente con huevo y queso fundido envueltos en un cruasán tierno.",
+      "badge": ""
+    },
+    "Chick’N Crisp Croissan’wich with Egg.gmsr.png": {
+      "name": "Chick'N Crisp Croissan'wich® con Huevo",
+      "desc": "Filete de pollo empanado más ligero acompañado de huevo fresco en un cruasán caliente.",
+      "badge": ""
+    },
+    "Breakfast King.gmsr.avif": {
+      "name": "Breakfast King",
+      "desc": "La reina de las hamburguesas matutinas: carne a la parrilla, huevo y queso para empezar el día con máxima energía.",
+      "badge": "👑 El Rey"
+    },
+    "Potato Bites.gmsr.png": {
+      "name": "Potato Bites (Bocaditos de Patata)",
+      "desc": "Bocaditos de patata dorados y crujientes por fuera, tiernos por dentro. El complemento imprescindible para el desayuno.",
+      "badge": ""
+    },
+    "Espresso.gmsr.png": {
+      "name": "Café Espresso",
+      "desc": "Espresso intenso con cuerpo y aroma profundo. La dosis perfecta de café recién preparado.",
+      "badge": ""
+    },
+    "Americano.gmsr.avif": {
+      "name": "Café Americano",
+      "desc": "Café 100% arábica recién molido y filtrado con agua caliente. Intenso, suave y equilibrado.",
+      "badge": ""
+    },
+    "Double WHOPPER.gmsr.avif": {
+      "name": "Doble WHOPPER®",
+      "desc": "Dos hamburguesas de ternera a la parrilla con todos los ingredientes clásicos del WHOPPER®. Doble carne, doble sabor.",
+      "badge": ""
+    },
+    "WHOPPER with Bacon and Cheese.gmsr.avif": {
+      "name": "WHOPPER® con Bacon yamp; Cheese",
+      "desc": "El clásico WHOPPER® mejorado con crujientes tiras de beicon y queso fundido.",
+      "badge": ""
+    },
+    "Double WHOPPER with Bacon and Cheese.gmsr.avif": {
+      "name": "Double WHOPPER® con Bacon yamp; Cheese",
+      "desc": "El clásico WHOPPER® mejorado con crujientes tiras de beicon y queso fundido.",
+      "badge": ""
+    },
+    "Big King.gmsr.avif": {
+      "name": "Big King",
+      "desc": "Big King preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Big King Little King.gmsr.avif": {
+      "name": "Big King Little King",
+      "desc": "Big King Little King preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Big King Royale.gmsr.avif": {
+      "name": "Big King Royale",
+      "desc": "Big King Royale preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Big King Double Royale.gmsr.avif": {
+      "name": "Big King Double Royale",
+      "desc": "Big King Double Royale preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Chicken Royale.gmsr.png": {
+      "name": "Chicken Royale",
+      "desc": "Filete de pechuga de pollo crujiente con lechuga fresca y mayonesa suave en un panecillo alargado con sésamo.",
+      "badge": "🔥 Fan Fave"
+    },
+    "Double Chicken Royale.gmsr.avif": {
+      "name": "Doble Chicken Royale",
+      "desc": "Filete de pechuga de pollo crujiente con lechuga fresca y mayonesa suave en un panecillo alargado con sésamo.",
+      "badge": ""
+    },
+    "Chicken Royale Bacon & Cheese.gmsr.avif": {
+      "name": "Chicken Royale Bacon yamp; Cheese",
+      "desc": "Filete de pechuga de pollo crujiente con lechuga fresca y mayonesa suave en un panecillo alargado con sésamo.",
+      "badge": ""
+    },
+    "Double Chicken Royale Bacon & Cheese.gmsr.avif": {
+      "name": "Double Chicken Royale Bacon yamp; Cheese",
+      "desc": "Filete de pechuga de pollo crujiente con lechuga fresca y mayonesa suave en un panecillo alargado con sésamo.",
+      "badge": ""
+    },
+    "Cheeseburger.gmsr.avif": {
+      "name": "Cheeseburger (Hamburguesa con Queso)",
+      "desc": "Hamburguesa de ternera a la parrilla con queso fundido, pepinillo, ketchup y mostaza en pan tostado.",
+      "badge": ""
+    },
+    "Double Cheeseburger.gmsr.avif": {
+      "name": "Doble Cheeseburger",
+      "desc": "Hamburguesa de ternera a la parrilla con queso fundido, pepinillo, ketchup y mostaza en pan tostado.",
+      "badge": ""
+    },
+    "Bacon Double Cheeseburger.gmsr.avif": {
+      "name": "Doble Cheeseburger con Beicon",
+      "desc": "Hamburguesa de ternera a la parrilla con queso fundido, pepinillo, ketchup y mostaza en pan tostado.",
+      "badge": ""
+    },
+    "Bacon Double Cheese XL.gmsr.avif": {
+      "name": "Bacon Double Cheese XL",
+      "desc": "Bacon Double Cheese XL preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Hamburger.gmsr.avif": {
+      "name": "Hamburguesa Clásica",
+      "desc": "Hamburguesa Clásica preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Plant-Based WHOPPER.gmsr.avif": {
+      "name": "Plant-Based WHOPPER® (100% Vegetal)",
+      "desc": "Toda la textura y el auténtico sabor a la parrilla de Burger King en una versión 100% vegetal.",
+      "badge": "🌱 Plant-Based"
+    },
+    "Vegan Royale.gmsr.avif": {
+      "name": "Vegan Royale (Certificado Vegano)",
+      "desc": "Toda la textura y el auténtico sabor a la parrilla de Burger King en una versión 100% vegetal.",
+      "badge": "🌱 Certificado Vegano"
+    },
+    "BBQ Steakhouse Angus.gmsr.avif": {
+      "name": "Wagyu Wellington",
+      "desc": "Wagyu Wellington preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": "✨ Premium"
+    },
+    "BBQ Steakhouse Crispy Chicken.gmsr.avif": {
+      "name": "The Wagyu",
+      "desc": "The Wagyu preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": "✨ Premium"
+    },
+    "Chicken Nuggets.gmsr.avif": {
+      "name": "Nuggets de Pollo",
+      "desc": "Tiernos bocados de pollo empanados y dorados a la perfección, ideales para acompañar con tus salsas favoritas.",
+      "badge": "🔥 Fan Fave"
+    },
+    "9pc Pringles Sour Cream & Onion Chicken Fries.gmsr.avif": {
+      "name": "9pc Pringles Sour Cream yamp; Onion Chicken Fries",
+      "desc": "Patatas fritas doradas y crujientes por fuera, suaves y calientes por dentro con el punto justo de sal.",
+      "badge": ""
+    },
+    "Garlic & Jalapeno Chicken Fries.gmsr.avif": {
+      "name": "Garlic yamp; Jalapeño Chicken Fries",
+      "desc": "Patatas fritas doradas y crujientes por fuera, suaves y calientes por dentro con el punto justo de sal.",
+      "badge": ""
+    },
+    "Chilli Cheese Bites.gmsr.avif": {
+      "name": "Chilli Cheese Bites (Bocaditos de Queso y Chile)",
+      "desc": "Chilli Cheese Bites (Bocaditos de Queso y Chile) preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Burger Buddies (3pc).gmsr.avif": {
+      "name": "Burger Buddies (3 uds)",
+      "desc": "Burger Buddies (3 uds) preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Burger Buddies (9pc).gmsr.avif": {
+      "name": "Burger Buddies (9 uds)",
+      "desc": "Burger Buddies (9 uds) preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Classic Chicken Melt.gmsr.avif": {
+      "name": "Classic Chicken Melt",
+      "desc": "Classic Chicken Melt preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Classic Double Beef Melt.gmsr.avif": {
+      "name": "Classic Double Beef Melt",
+      "desc": "Classic Double Beef Melt preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Fries.gmsr.avif": {
+      "name": "Patatas Fritas Clásicas",
+      "desc": "Patatas fritas doradas y crujientes por fuera, suaves y calientes por dentro con el punto justo de sal.",
+      "badge": "🔥 Classic"
+    },
+    "Onion Rings.gmsr.avif": {
+      "name": "Aros de Cebolla Crujientes",
+      "desc": "Aros de Cebolla Crujientes preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Loaded King Fries.gmsr.avif": {
+      "name": "Loaded King Fries",
+      "desc": "Loaded King Fries preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Loaded King Fries With Bacon.gmsr.avif": {
+      "name": "Loaded King Fries con Bacon",
+      "desc": "Loaded King Fries con Bacon preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Truffle Loaded King Fries.gmsr.avif": {
+      "name": "Loaded King Fries con Trufa",
+      "desc": "Loaded King Fries con Trufa preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Loaded Force Fries.gmsr.avif": {
+      "name": "Loaded Force Fries",
+      "desc": "Loaded Force Fries preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Halloumi Fries.gmsr.avif": {
+      "name": "Halloumi Fries (Palitos de Queso Halloumi)",
+      "desc": "Halloumi Fries (Palitos de Queso Halloumi) preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": "🧀 Veggie"
+    },
+    "BBQ Dip Pot.gmsr.avif": {
+      "name": "Salsa Barbacoa (BBQ Dip)",
+      "desc": "Salsa Barbacoa (BBQ Dip) preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Sweet Chilli Dip Pot.gmsr.avif": {
+      "name": "Salsa Sweet Chilli Dip",
+      "desc": "Salsa Sweet Chilli Dip preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Cheddar Cheese Sauce XL.gmsr.avif": {
+      "name": "Salsa de Queso Cheddar XL",
+      "desc": "Salsa de Queso Cheddar XL preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "BBQ Stacker King Box – Beef.gmsr.avif": {
+      "name": "BBQ Stacker King Caja King – Beef",
+      "desc": "BBQ Stacker King Caja King – Beef preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": "📦 Box Deal"
+    },
+    "BBQ Stacker King Box – Chicken.gmsr.avif": {
+      "name": "BBQ Stacker King Caja King – Chicken",
+      "desc": "BBQ Stacker King Caja King – Chicken preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": "📦 Box Deal"
+    },
+    "Beef Melt King Box.gmsr.avif": {
+      "name": "Beef Melt King Caja King",
+      "desc": "Beef Melt King Caja King preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Chicken Melt King Box.gmsr.avif": {
+      "name": "Chicken Melt King Caja King",
+      "desc": "Chicken Melt King Caja King preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Chicken Melt Meal.gmsr.avif": {
+      "name": "Chicken Melt Menú",
+      "desc": "Chicken Melt Menú preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Double Beef Melt Meal.gmsr.avif": {
+      "name": "Double Beef Melt Menú",
+      "desc": "Double Beef Melt Menú preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Beef Melt & Fries.gmsr.avif": {
+      "name": "Beef Melt yamp; Fries",
+      "desc": "Patatas fritas doradas y crujientes por fuera, suaves y calientes por dentro con el punto justo de sal.",
+      "badge": ""
+    },
+    "Chicken Melt & Fries.gmsr.avif": {
+      "name": "Chicken Melt yamp; Fries",
+      "desc": "Patatas fritas doradas y crujientes por fuera, suaves y calientes por dentro con el punto justo de sal.",
+      "badge": ""
+    },
+    "Pringles Sour Cream & Onion King Box – Beef Melts.gmsr.avif": {
+      "name": "Pringles Sour Cream yamp; Onion King Caja King – Beef Melts",
+      "desc": "Pringles Sour Cream yamp; Onion King Caja King – Beef Melts preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": "🎉 Special"
+    },
+    "Kids Cheeseburger Meal.gmsr.avif": {
+      "name": "Kids Cheeseburger Menú",
+      "desc": "Hamburguesa de ternera a la parrilla con queso fundido, pepinillo, ketchup y mostaza en pan tostado.",
+      "badge": "👶 Infantil"
+    },
+    "Kids Hamburger Meal.gmsr.avif": {
+      "name": "Kids Hamburger Menú",
+      "desc": "Kids Hamburger Menú preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": "👶 Infantil"
+    },
+    "Kids Chicken Nuggets Meal.gmsr.avif": {
+      "name": "Kids Chicken Nuggets Menú",
+      "desc": "Tiernos bocados de pollo empanados y dorados a la perfección, ideales para acompañar con tus salsas favoritas.",
+      "badge": "👶 Infantil"
+    },
+    "Kids Whopper Meal.gmsr.avif": {
+      "name": "Kids Whopper Menú",
+      "desc": "La legendaria hamburguesa WHOPPER®: ternera 100% a la parrilla con tomate fresco, lechuga, mayonesa, ketchup y pepinillos en pan de sésamo tostado.",
+      "badge": "👶 Infantil"
+    },
+    "Galactic Mandalorian Chicken Royale Meal.gmsr.avif": {
+      "name": "Galactic Mandalorian Chicken Royale Menú",
+      "desc": "Filete de pechuga de pollo crujiente con lechuga fresca y mayonesa suave en un panecillo alargado con sésamo.",
+      "badge": "⭐ Limited"
+    },
+    "Vanilla Sundae.gmsr.avif": {
+      "name": "Sundae de Vainilla",
+      "desc": "Cremoso helado suave de vainilla cubierto con delicioso sirope dulce.",
+      "badge": ""
+    },
+    "Chocolate Sundae.gmsr.avif": {
+      "name": "Sundae de Chocolate",
+      "desc": "Cremoso helado suave de vainilla cubierto con delicioso sirope dulce.",
+      "badge": ""
+    },
+    "Strawberry Sundae.gmsr.avif": {
+      "name": "Sundae de Fresa",
+      "desc": "Cremoso helado suave de vainilla cubierto con delicioso sirope dulce.",
+      "badge": ""
+    },
+    "Salted Caramel Sundae.gmsr.avif": {
+      "name": "Sundae de Caramelo Salado",
+      "desc": "Cremoso helado suave de vainilla cubierto con delicioso sirope dulce.",
+      "badge": ""
+    },
+    "Grogu’s Sundae.gmsr.avif": {
+      "name": "Grogu's Sundae",
+      "desc": "Cremoso helado suave de vainilla cubierto con delicioso sirope dulce.",
+      "badge": "⭐ Special"
+    },
+    "Mini Grogu’s Sundae.gmsr.avif": {
+      "name": "Mini Grogu's Sundae",
+      "desc": "Cremoso helado suave de vainilla cubierto con delicioso sirope dulce.",
+      "badge": ""
+    },
+    "Vanilla Milkshake.gmsr.avif": {
+      "name": "Batido de Vainilla",
+      "desc": "Batido espeso y refrescante elaborado con helado cremoso.",
+      "badge": ""
+    },
+    "Chocolate Milkshake.gmsr.avif": {
+      "name": "Batido de Chocolate",
+      "desc": "Batido espeso y refrescante elaborado con helado cremoso.",
+      "badge": ""
+    },
+    "Strawberry Milkshake.gmsr.avif": {
+      "name": "Batido de Fresa",
+      "desc": "Batido espeso y refrescante elaborado con helado cremoso.",
+      "badge": ""
+    },
+    "Salted Caramel Milkshake.gmsr.avif": {
+      "name": "Batido de Caramelo Salado",
+      "desc": "Batido espeso y refrescante elaborado con helado cremoso.",
+      "badge": ""
+    },
+    "Twix Shake.gmsr.avif": {
+      "name": "Twix Shake",
+      "desc": "Batido espeso y refrescante elaborado con helado cremoso.",
+      "badge": ""
+    },
+    "Smarties Fusion.gmsr.avif": {
+      "name": "King Fusion con Smarties",
+      "desc": "Helado suave mezclado con trocitos crujientes de chocolate y sirope irresistible.",
+      "badge": ""
+    },
+    "Twix Fusion.gmsr.avif": {
+      "name": "King Fusion con Twix",
+      "desc": "Helado suave mezclado con trocitos crujientes de chocolate y sirope irresistible.",
+      "badge": ""
+    },
+    "King Fusion – Smarties.gmsr.avif": {
+      "name": "King Fusion – Smarties",
+      "desc": "Helado suave mezclado con trocitos crujientes de chocolate y sirope irresistible.",
+      "badge": ""
+    },
+    "Mini Smarties Fusion.gmr.avif": {
+      "name": "Mini Smarties Fusion",
+      "desc": "Helado suave mezclado con trocitos crujientes de chocolate y sirope irresistible.",
+      "badge": ""
+    },
+    "Mini Twix Fusion.gmsr.avif": {
+      "name": "Mini Twix Fusion",
+      "desc": "Helado suave mezclado con trocitos crujientes de chocolate y sirope irresistible.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Cookie Dough.gmsr.avif": {
+      "name": "Ben yamp; Jerry's Cookie Dough",
+      "desc": "Ben yamp; Jerry's Cookie Dough preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Chocolate Fudge Brownie.gmsr.avif": {
+      "name": "Ben yamp; Jerry's Chocolate Fudge Brownie",
+      "desc": "Ben yamp; Jerry's Chocolate Fudge Brownie preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Caramel Chew Chew.gmsr.avif": {
+      "name": "Ben yamp; Jerry's Caramel Chew Chew",
+      "desc": "Ben yamp; Jerry's Caramel Chew Chew preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Chocolate Brownie Cheesecake Bar.gmsr.avif": {
+      "name": "Chocolate Brownie Cheesecake Bar",
+      "desc": "Chocolate Brownie Cheesecake Bar preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Gooey Salted Caramel Cheesecake Bar.gmsr.avif": {
+      "name": "Gooey Salted Caramel Cheesecake Bar",
+      "desc": "Gooey Salted Caramel Cheesecake Bar preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Strawberry Milkshake Cheesecake Bar.gmsr.avif": {
+      "name": "Strawberry Milkshake Cheesecake Bar",
+      "desc": "Batido espeso y refrescante elaborado con helado cremoso.",
+      "badge": ""
+    },
+    "Coca-Cola.gmsr.avif": {
+      "name": "Coca-Cola® Clásica",
+      "desc": "Refresco helado y burbujeante, la compañía clásica y refrescante para tu menú.",
+      "badge": ""
+    },
+    "Diet Coca-Cola.gmsr.avif": {
+      "name": "Coca-Cola Light (Diet)",
+      "desc": "Refresco helado y burbujeante, la compañía clásica y refrescante para tu menú.",
+      "badge": ""
+    },
+    "Coca-Cola Zero.gmsr.avif": {
+      "name": "Coca-Cola Zero Azúcar",
+      "desc": "Refresco helado y burbujeante, la compañía clásica y refrescante para tu menú.",
+      "badge": ""
+    },
+    "Fanta Zero.gmsr.avif": {
+      "name": "Fanta Naranja Zero",
+      "desc": "Refresco helado y burbujeante, la compañía clásica y refrescante para tu menú.",
+      "badge": ""
+    },
+    "Sprite Zero.gmsr.avif": {
+      "name": "Sprite Zero",
+      "desc": "Refresco helado y burbujeante, la compañía clásica y refrescante para tu menú.",
+      "badge": ""
+    },
+    "Dr Pepper Zero.gmsr.avif": {
+      "name": "Dr Pepper Zero",
+      "desc": "Dr Pepper Zero preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Frozen Fanta – Blue Raspberry.gmsr.avif": {
+      "name": "Frozen Fanta – Blue Raspberry",
+      "desc": "Refresco helado y burbujeante, la compañía clásica y refrescante para tu menú.",
+      "badge": ""
+    },
+    "Frozen Fanta – Strawberry.gmsr.avif": {
+      "name": "Frozen Fanta – Strawberry",
+      "desc": "Refresco helado y burbujeante, la compañía clásica y refrescante para tu menú.",
+      "badge": ""
+    },
+    "Frozen Fanta – Strawberry & Blue Raspberry.gmsr.avif": {
+      "name": "Frozen Fanta – Strawberry yamp; Blue Raspberry",
+      "desc": "Refresco helado y burbujeante, la compañía clásica y refrescante para tu menú.",
+      "badge": ""
+    },
+    "Monster Original 500ml.gmsr.avif": {
+      "name": "Monster Energy Original 500ml",
+      "desc": "Monster Energy Original 500ml preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Monster Mango Loco 500ml.gmsr.avif": {
+      "name": "Monster Mango Loco 500ml",
+      "desc": "Monster Mango Loco 500ml preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Monster Ultra White Zero Sugar 500ml.gmsr.avif": {
+      "name": "Monster Ultra White Zero Sugar 500ml",
+      "desc": "Monster Ultra White Zero Sugar 500ml preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Cappuccino.gmsr.avif": {
+      "name": "Café Cappuccino",
+      "desc": "Espresso intenso con cremosa leche vaporizada y suave espuma de leche.",
+      "badge": ""
+    },
+    "Latte.gmsr.avif": {
+      "name": "Café Latte con Leche",
+      "desc": "Café espresso combinado con abundante leche vaporizada para un sabor suave y cremoso.",
+      "badge": ""
+    },
+    "Flat White.gmsr.avif": {
+      "name": "Café Flat White",
+      "desc": "Doble shot de espresso con microespuma de leche sedosa y textura aterciopelada.",
+      "badge": ""
+    },
+    "Hot Chocolate.gmsr.avif": {
+      "name": "Chocolate Caliente",
+      "desc": "Cremoso chocolate caliente, dulce y reconfortante para cualquier momento del día.",
+      "badge": ""
+    },
+    "Tea.gmsr.avif": {
+      "name": "Té Caliente Tradicional",
+      "desc": "Té negro tradicional británico caliente, servido solo o con leche.",
+      "badge": ""
+    },
+    "Semi-Skimmed Milk.gmsr.avif": {
+      "name": "Semi-Skimmed Milk",
+      "desc": "Semi-Skimmed Milk preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Bottled Water.gmsr.avif": {
+      "name": "Agua Mineral Embotellada",
+      "desc": "Agua Mineral Embotellada preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": ""
+    },
+    "Innocent Kids Juicy Water Apples And Mangoes.gmsr.avif": {
+      "name": "Innocent Kids Juicy Water – Apples yamp; Mangoes",
+      "desc": "Innocent Kids Juicy Water – Apples yamp; Mangoes preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": "👶 Infantil"
+    },
+    "Innocent Kids Juicy Water Apples And Strawberries.gmsr.avif": {
+      "name": "Innocent Kids Juicy Water – Apples yamp; Strawberries",
+      "desc": "Innocent Kids Juicy Water – Apples yamp; Strawberries preparado con ingredientes de primera calidad de Burger King para disfrutar al máximo.",
+      "badge": "👶 Infantil"
+    }
+  },
+  "fr": {
+    "Fully Loaded Croissanwich with Egg.gmsr.png": {
+      "name": "Fully Loaded Croissanwich® avec Œuf",
+      "desc": "Le sandwich matinal ultime de BK : saucisse, bacon croustillant, œuf frais et fromage fondant dans un croissant chaud et feuilleté.",
+      "badge": "⭐ Meilleure Vente"
+    },
+    "Beef Croissan’wich with Egg.gmsr.png": {
+      "name": "Beef Croissan'wich® avec Œuf",
+      "desc": "Steak de bœuf grillé à la flamme, œuf frais et fromage fondu dans un croissant pur beurre.",
+      "badge": "🔥 Populaire"
+    },
+    "Beefacon Croissan’wich with Egg.gmsr.png": {
+      "name": "Beefacon Croissan'wich® avec Œuf",
+      "desc": "Steak de bœuf grillé à la flamme, œuf frais et fromage fondu dans un croissant pur beurre.",
+      "badge": ""
+    },
+    "Chicken Strips Croissan’wich with Egg.gmsr.png": {
+      "name": "Chicken Strips Croissan'wich® avec Œuf",
+      "desc": "Aiguillettes de poulet croustillantes avec œuf et fromage dans un pain croissant moelleux.",
+      "badge": ""
+    },
+    "Chick’N Crisp Croissan’wich with Egg.gmsr.png": {
+      "name": "Chick'N Crisp Croissan'wich® avec Œuf",
+      "desc": "Filet de poulet pané croustillant et œuf frais dans un croissant doré.",
+      "badge": ""
+    },
+    "Breakfast King.gmsr.avif": {
+      "name": "Breakfast King",
+      "desc": "Le roi des burgers matinaux : steak grillé à la flamme, œuf et fromage fondu pour un petit-déjeuner royal.",
+      "badge": "👑 Le Roi"
+    },
+    "Potato Bites.gmsr.png": {
+      "name": "Potato Bites (Bouchées de Pommes de Terre)",
+      "desc": "Bouchées de pommes de terre dorées et croustillantes à l'extérieur, tendres à cœur. L'accompagnement parfait.",
+      "badge": ""
+    },
+    "Espresso.gmsr.png": {
+      "name": "Café Espresso",
+      "desc": "Espresso intense et aromatique à base de grains soigneusement sélectionnés.",
+      "badge": ""
+    },
+    "Americano.gmsr.avif": {
+      "name": "Café Americano",
+      "desc": "Café 100% Arabica fraîchement moulu. Allongé d'eau chaude pour un goût riche et doux.",
+      "badge": ""
+    },
+    "Double WHOPPER.gmsr.avif": {
+      "name": "Double WHOPPER®",
+      "desc": "Deux steaks de bœuf grillés à la flamme avec toute la garniture classique du WHOPPER® pour une générosité maximale.",
+      "badge": ""
+    },
+    "WHOPPER with Bacon and Cheese.gmsr.avif": {
+      "name": "WHOPPER® avec Bacon &amp; Cheese",
+      "desc": "Le WHOPPER® classique sublimé par du bacon croustillant et une tranche de fromage fondu.",
+      "badge": ""
+    },
+    "Double WHOPPER with Bacon and Cheese.gmsr.avif": {
+      "name": "Double WHOPPER® avec Bacon &amp; Cheese",
+      "desc": "Le WHOPPER® classique sublimé par du bacon croustillant et une tranche de fromage fondu.",
+      "badge": ""
+    },
+    "Big King.gmsr.avif": {
+      "name": "Big King",
+      "desc": "Big King préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Big King Little King.gmsr.avif": {
+      "name": "Big King Little King",
+      "desc": "Big King Little King préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Big King Royale.gmsr.avif": {
+      "name": "Big King Royale",
+      "desc": "Big King Royale préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Big King Double Royale.gmsr.avif": {
+      "name": "Big King Double Royale",
+      "desc": "Big King Double Royale préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Chicken Royale.gmsr.png": {
+      "name": "Chicken Royale",
+      "desc": "Filet de poulet croustillant avec salade croquante et mayonnaise crémeuse dans un pain allongé aux graines de sésame.",
+      "badge": "🔥 Fan Fave"
+    },
+    "Double Chicken Royale.gmsr.avif": {
+      "name": "Double Chicken Royale",
+      "desc": "Filet de poulet croustillant avec salade croquante et mayonnaise crémeuse dans un pain allongé aux graines de sésame.",
+      "badge": ""
+    },
+    "Chicken Royale Bacon & Cheese.gmsr.avif": {
+      "name": "Chicken Royale Bacon &amp; Cheese",
+      "desc": "Filet de poulet croustillant avec salade croquante et mayonnaise crémeuse dans un pain allongé aux graines de sésame.",
+      "badge": ""
+    },
+    "Double Chicken Royale Bacon & Cheese.gmsr.avif": {
+      "name": "Double Chicken Royale Bacon &amp; Cheese",
+      "desc": "Filet de poulet croustillant avec salade croquante et mayonnaise crémeuse dans un pain allongé aux graines de sésame.",
+      "badge": ""
+    },
+    "Cheeseburger.gmsr.avif": {
+      "name": "Cheeseburger",
+      "desc": "Steak de bœuf grillé à la flamme, fromage fondant, cornichons, ketchup et moutarde.",
+      "badge": ""
+    },
+    "Double Cheeseburger.gmsr.avif": {
+      "name": "Double Cheeseburger",
+      "desc": "Steak de bœuf grillé à la flamme, fromage fondant, cornichons, ketchup et moutarde.",
+      "badge": ""
+    },
+    "Bacon Double Cheeseburger.gmsr.avif": {
+      "name": "Double Cheeseburger au Bacon",
+      "desc": "Steak de bœuf grillé à la flamme, fromage fondant, cornichons, ketchup et moutarde.",
+      "badge": ""
+    },
+    "Bacon Double Cheese XL.gmsr.avif": {
+      "name": "Bacon Double Cheese XL",
+      "desc": "Bacon Double Cheese XL préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Hamburger.gmsr.avif": {
+      "name": "Hamburger Classique",
+      "desc": "Hamburger Classique préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Plant-Based WHOPPER.gmsr.avif": {
+      "name": "Plant-Based WHOPPER® (100% Végétal)",
+      "desc": "Tout le goût emblématique de Burger King préparé avec une recette 100% végétale savoureuse.",
+      "badge": "🌱 Plant-Based"
+    },
+    "Vegan Royale.gmsr.avif": {
+      "name": "Vegan Royale (Certifié Végan)",
+      "desc": "Tout le goût emblématique de Burger King préparé avec une recette 100% végétale savoureuse.",
+      "badge": "🌱 Certifié Végan"
+    },
+    "BBQ Steakhouse Angus.gmsr.avif": {
+      "name": "Wagyu Wellington",
+      "desc": "Wagyu Wellington préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": "✨ Premium"
+    },
+    "BBQ Steakhouse Crispy Chicken.gmsr.avif": {
+      "name": "The Wagyu",
+      "desc": "The Wagyu préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": "✨ Premium"
+    },
+    "Chicken Nuggets.gmsr.avif": {
+      "name": "Nuggets de Poulet",
+      "desc": "Bouchées de poulet tendres et croustillantes, parfaites à tremper dans vos sauces préférées.",
+      "badge": "🔥 Fan Fave"
+    },
+    "9pc Pringles Sour Cream & Onion Chicken Fries.gmsr.avif": {
+      "name": "9pc Pringles Sour Cream &amp; Onion Chicken Fries",
+      "desc": "Frites dorées, croustillantes à l'extérieur et moelleuses à cœur avec une touche de sel.",
+      "badge": ""
+    },
+    "Garlic & Jalapeno Chicken Fries.gmsr.avif": {
+      "name": "Garlic &amp; Jalapeño Chicken Fries",
+      "desc": "Frites dorées, croustillantes à l'extérieur et moelleuses à cœur avec une touche de sel.",
+      "badge": ""
+    },
+    "Chilli Cheese Bites.gmsr.avif": {
+      "name": "Chilli Cheese Bites (Bouchées Fromage Piment)",
+      "desc": "Chilli Cheese Bites (Bouchées Fromage Piment) préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Burger Buddies (3pc).gmsr.avif": {
+      "name": "Burger Buddies (3 pièces)",
+      "desc": "Burger Buddies (3 pièces) préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Burger Buddies (9pc).gmsr.avif": {
+      "name": "Burger Buddies (9 pièces)",
+      "desc": "Burger Buddies (9 pièces) préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Classic Chicken Melt.gmsr.avif": {
+      "name": "Classic Chicken Melt",
+      "desc": "Classic Chicken Melt préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Classic Double Beef Melt.gmsr.avif": {
+      "name": "Classic Double Beef Melt",
+      "desc": "Classic Double Beef Melt préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Fries.gmsr.avif": {
+      "name": "Frites Croustillantes",
+      "desc": "Frites dorées, croustillantes à l'extérieur et moelleuses à cœur avec une touche de sel.",
+      "badge": "🔥 Classic"
+    },
+    "Onion Rings.gmsr.avif": {
+      "name": "Rondelles d'Oignon Croustillantes",
+      "desc": "Rondelles d'Oignon Croustillantes préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Loaded King Fries.gmsr.avif": {
+      "name": "Loaded King Fries",
+      "desc": "Loaded King Fries préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Loaded King Fries With Bacon.gmsr.avif": {
+      "name": "Loaded King Fries avec Bacon",
+      "desc": "Loaded King Fries avec Bacon préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Truffle Loaded King Fries.gmsr.avif": {
+      "name": "Loaded King Fries à la Truffe",
+      "desc": "Loaded King Fries à la Truffe préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Loaded Force Fries.gmsr.avif": {
+      "name": "Loaded Force Fries",
+      "desc": "Loaded Force Fries préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Halloumi Fries.gmsr.avif": {
+      "name": "Frites de Halloumi",
+      "desc": "Frites de Halloumi préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": "🧀 Veggie"
+    },
+    "BBQ Dip Pot.gmsr.avif": {
+      "name": "Sauce Barbecue (BBQ Dip)",
+      "desc": "Sauce Barbecue (BBQ Dip) préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Sweet Chilli Dip Pot.gmsr.avif": {
+      "name": "Sauce Sweet Chilli Dip",
+      "desc": "Sauce Sweet Chilli Dip préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Cheddar Cheese Sauce XL.gmsr.avif": {
+      "name": "Sauce Cheddar Fondant XL",
+      "desc": "Sauce Cheddar Fondant XL préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "BBQ Stacker King Box – Beef.gmsr.avif": {
+      "name": "BBQ Stacker King Box – Beef",
+      "desc": "BBQ Stacker King Box – Beef préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": "📦 Box Deal"
+    },
+    "BBQ Stacker King Box – Chicken.gmsr.avif": {
+      "name": "BBQ Stacker King Box – Chicken",
+      "desc": "BBQ Stacker King Box – Chicken préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": "📦 Box Deal"
+    },
+    "Beef Melt King Box.gmsr.avif": {
+      "name": "Beef Melt King Box",
+      "desc": "Beef Melt King Box préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Chicken Melt King Box.gmsr.avif": {
+      "name": "Chicken Melt King Box",
+      "desc": "Chicken Melt King Box préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Chicken Melt Meal.gmsr.avif": {
+      "name": "Chicken Melt Menu",
+      "desc": "Chicken Melt Menu préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Double Beef Melt Meal.gmsr.avif": {
+      "name": "Double Beef Melt Menu",
+      "desc": "Double Beef Melt Menu préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Beef Melt & Fries.gmsr.avif": {
+      "name": "Beef Melt &amp; Fries",
+      "desc": "Frites dorées, croustillantes à l'extérieur et moelleuses à cœur avec une touche de sel.",
+      "badge": ""
+    },
+    "Chicken Melt & Fries.gmsr.avif": {
+      "name": "Chicken Melt &amp; Fries",
+      "desc": "Frites dorées, croustillantes à l'extérieur et moelleuses à cœur avec une touche de sel.",
+      "badge": ""
+    },
+    "Pringles Sour Cream & Onion King Box – Beef Melts.gmsr.avif": {
+      "name": "Pringles Sour Cream &amp; Onion King Box – Beef Melts",
+      "desc": "Pringles Sour Cream &amp; Onion King Box – Beef Melts préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": "🎉 Special"
+    },
+    "Kids Cheeseburger Meal.gmsr.avif": {
+      "name": "Kids Cheeseburger Menu",
+      "desc": "Steak de bœuf grillé à la flamme, fromage fondant, cornichons, ketchup et moutarde.",
+      "badge": "👶 Enfants"
+    },
+    "Kids Hamburger Meal.gmsr.avif": {
+      "name": "Kids Hamburger Menu",
+      "desc": "Kids Hamburger Menu préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": "👶 Enfants"
+    },
+    "Kids Chicken Nuggets Meal.gmsr.avif": {
+      "name": "Kids Chicken Nuggets Menu",
+      "desc": "Bouchées de poulet tendres et croustillantes, parfaites à tremper dans vos sauces préférées.",
+      "badge": "👶 Enfants"
+    },
+    "Kids Whopper Meal.gmsr.avif": {
+      "name": "Kids Whopper Menu",
+      "desc": "Le mythique WHOPPER® : steak de bœuf grillé à la flamme, tomates fraîches, salade, mayonnaise, ketchup et cornichons dans un pain sésame toasté.",
+      "badge": "👶 Enfants"
+    },
+    "Galactic Mandalorian Chicken Royale Meal.gmsr.avif": {
+      "name": "Galactic Mandalorian Chicken Royale Menu",
+      "desc": "Filet de poulet croustillant avec salade croquante et mayonnaise crémeuse dans un pain allongé aux graines de sésame.",
+      "badge": "⭐ Limited"
+    },
+    "Vanilla Sundae.gmsr.avif": {
+      "name": "Sundae Vanille",
+      "desc": "Glace onctueuse à la vanille nappée d'un coulis gourmand et savoureux.",
+      "badge": ""
+    },
+    "Chocolate Sundae.gmsr.avif": {
+      "name": "Sundae Chocolat",
+      "desc": "Glace onctueuse à la vanille nappée d'un coulis gourmand et savoureux.",
+      "badge": ""
+    },
+    "Strawberry Sundae.gmsr.avif": {
+      "name": "Sundae Fraise",
+      "desc": "Glace onctueuse à la vanille nappée d'un coulis gourmand et savoureux.",
+      "badge": ""
+    },
+    "Salted Caramel Sundae.gmsr.avif": {
+      "name": "Sundae Caramel Salé",
+      "desc": "Glace onctueuse à la vanille nappée d'un coulis gourmand et savoureux.",
+      "badge": ""
+    },
+    "Grogu’s Sundae.gmsr.avif": {
+      "name": "Grogu's Sundae",
+      "desc": "Glace onctueuse à la vanille nappée d'un coulis gourmand et savoureux.",
+      "badge": "⭐ Special"
+    },
+    "Mini Grogu’s Sundae.gmsr.avif": {
+      "name": "Mini Grogu's Sundae",
+      "desc": "Glace onctueuse à la vanille nappée d'un coulis gourmand et savoureux.",
+      "badge": ""
+    },
+    "Vanilla Milkshake.gmsr.avif": {
+      "name": "Milkshake Vanille",
+      "desc": "Milkshake épais et ultra-gourmand préparé avec de la glace onctueuse.",
+      "badge": ""
+    },
+    "Chocolate Milkshake.gmsr.avif": {
+      "name": "Milkshake Chocolat",
+      "desc": "Milkshake épais et ultra-gourmand préparé avec de la glace onctueuse.",
+      "badge": ""
+    },
+    "Strawberry Milkshake.gmsr.avif": {
+      "name": "Milkshake Fraise",
+      "desc": "Milkshake épais et ultra-gourmand préparé avec de la glace onctueuse.",
+      "badge": ""
+    },
+    "Salted Caramel Milkshake.gmsr.avif": {
+      "name": "Milkshake Caramel Salé",
+      "desc": "Milkshake épais et ultra-gourmand préparé avec de la glace onctueuse.",
+      "badge": ""
+    },
+    "Twix Shake.gmsr.avif": {
+      "name": "Twix Shake",
+      "desc": "Milkshake épais et ultra-gourmand préparé avec de la glace onctueuse.",
+      "badge": ""
+    },
+    "Smarties Fusion.gmsr.avif": {
+      "name": "King Fusion Smarties",
+      "desc": "Glace gourmande tourbillonnée de morceaux croustillants et de coulis sucré.",
+      "badge": ""
+    },
+    "Twix Fusion.gmsr.avif": {
+      "name": "King Fusion Twix",
+      "desc": "Glace gourmande tourbillonnée de morceaux croustillants et de coulis sucré.",
+      "badge": ""
+    },
+    "King Fusion – Smarties.gmsr.avif": {
+      "name": "King Fusion – Smarties",
+      "desc": "Glace gourmande tourbillonnée de morceaux croustillants et de coulis sucré.",
+      "badge": ""
+    },
+    "Mini Smarties Fusion.gmr.avif": {
+      "name": "Mini Smarties Fusion",
+      "desc": "Glace gourmande tourbillonnée de morceaux croustillants et de coulis sucré.",
+      "badge": ""
+    },
+    "Mini Twix Fusion.gmsr.avif": {
+      "name": "Mini Twix Fusion",
+      "desc": "Glace gourmande tourbillonnée de morceaux croustillants et de coulis sucré.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Cookie Dough.gmsr.avif": {
+      "name": "Ben &amp; Jerry's Cookie Dough",
+      "desc": "Ben &amp; Jerry's Cookie Dough préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Chocolate Fudge Brownie.gmsr.avif": {
+      "name": "Ben &amp; Jerry's Chocolate Fudge Brownie",
+      "desc": "Ben &amp; Jerry's Chocolate Fudge Brownie préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Caramel Chew Chew.gmsr.avif": {
+      "name": "Ben &amp; Jerry's Caramel Chew Chew",
+      "desc": "Ben &amp; Jerry's Caramel Chew Chew préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Chocolate Brownie Cheesecake Bar.gmsr.avif": {
+      "name": "Chocolate Brownie Cheesecake Bar",
+      "desc": "Chocolate Brownie Cheesecake Bar préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Gooey Salted Caramel Cheesecake Bar.gmsr.avif": {
+      "name": "Gooey Salted Caramel Cheesecake Bar",
+      "desc": "Gooey Salted Caramel Cheesecake Bar préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Strawberry Milkshake Cheesecake Bar.gmsr.avif": {
+      "name": "Strawberry Milkshake Cheesecake Bar",
+      "desc": "Milkshake épais et ultra-gourmand préparé avec de la glace onctueuse.",
+      "badge": ""
+    },
+    "Coca-Cola.gmsr.avif": {
+      "name": "Coca-Cola® Original",
+      "desc": "Boisson gazeuse bien fraîche et pétillante, parfaite pour accompagner votre burger.",
+      "badge": ""
+    },
+    "Diet Coca-Cola.gmsr.avif": {
+      "name": "Coca-Cola Light (Diet)",
+      "desc": "Boisson gazeuse bien fraîche et pétillante, parfaite pour accompagner votre burger.",
+      "badge": ""
+    },
+    "Coca-Cola Zero.gmsr.avif": {
+      "name": "Coca-Cola Sans Sucres",
+      "desc": "Boisson gazeuse bien fraîche et pétillante, parfaite pour accompagner votre burger.",
+      "badge": ""
+    },
+    "Fanta Zero.gmsr.avif": {
+      "name": "Fanta Orange Sans Sucres",
+      "desc": "Boisson gazeuse bien fraîche et pétillante, parfaite pour accompagner votre burger.",
+      "badge": ""
+    },
+    "Sprite Zero.gmsr.avif": {
+      "name": "Sprite Sans Sucres",
+      "desc": "Boisson gazeuse bien fraîche et pétillante, parfaite pour accompagner votre burger.",
+      "badge": ""
+    },
+    "Dr Pepper Zero.gmsr.avif": {
+      "name": "Dr Pepper Zero",
+      "desc": "Dr Pepper Zero préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Frozen Fanta – Blue Raspberry.gmsr.avif": {
+      "name": "Frozen Fanta – Blue Raspberry",
+      "desc": "Boisson gazeuse bien fraîche et pétillante, parfaite pour accompagner votre burger.",
+      "badge": ""
+    },
+    "Frozen Fanta – Strawberry.gmsr.avif": {
+      "name": "Frozen Fanta – Strawberry",
+      "desc": "Boisson gazeuse bien fraîche et pétillante, parfaite pour accompagner votre burger.",
+      "badge": ""
+    },
+    "Frozen Fanta – Strawberry & Blue Raspberry.gmsr.avif": {
+      "name": "Frozen Fanta – Strawberry &amp; Blue Raspberry",
+      "desc": "Boisson gazeuse bien fraîche et pétillante, parfaite pour accompagner votre burger.",
+      "badge": ""
+    },
+    "Monster Original 500ml.gmsr.avif": {
+      "name": "Monster Energy Original 500ml",
+      "desc": "Monster Energy Original 500ml préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Monster Mango Loco 500ml.gmsr.avif": {
+      "name": "Monster Mango Loco 500ml",
+      "desc": "Monster Mango Loco 500ml préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Monster Ultra White Zero Sugar 500ml.gmsr.avif": {
+      "name": "Monster Ultra White Zero Sugar 500ml",
+      "desc": "Monster Ultra White Zero Sugar 500ml préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Cappuccino.gmsr.avif": {
+      "name": "Café Cappuccino",
+      "desc": "Espresso intense surmonté d'une mousse de lait veloutée et onctueuse.",
+      "badge": ""
+    },
+    "Latte.gmsr.avif": {
+      "name": "Café Latte Onctueux",
+      "desc": "Espresso doux et généreuse dose de lait chaud velouté pour une boisson réconfortante.",
+      "badge": ""
+    },
+    "Flat White.gmsr.avif": {
+      "name": "Café Flat White",
+      "desc": "Espresso corsé et micro-mousse de lait pour une texture fine et un goût intense.",
+      "badge": ""
+    },
+    "Hot Chocolate.gmsr.avif": {
+      "name": "Chocolat Chaud Gourmand",
+      "desc": "Chocolat chaud onctueux et gourmand, idéal pour se réchauffer avec douceur.",
+      "badge": ""
+    },
+    "Tea.gmsr.avif": {
+      "name": "Thé Chaud Traditionnel",
+      "desc": "Thé noir britannique traditionnel, chaud et réconfortant à toute heure.",
+      "badge": ""
+    },
+    "Semi-Skimmed Milk.gmsr.avif": {
+      "name": "Semi-Skimmed Milk",
+      "desc": "Semi-Skimmed Milk préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Bottled Water.gmsr.avif": {
+      "name": "Eau Minérale en Bouteille",
+      "desc": "Eau Minérale en Bouteille préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": ""
+    },
+    "Innocent Kids Juicy Water Apples And Mangoes.gmsr.avif": {
+      "name": "Innocent Kids Juicy Water – Apples &amp; Mangoes",
+      "desc": "Innocent Kids Juicy Water – Apples &amp; Mangoes préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": "👶 Enfants"
+    },
+    "Innocent Kids Juicy Water Apples And Strawberries.gmsr.avif": {
+      "name": "Innocent Kids Juicy Water – Apples &amp; Strawberries",
+      "desc": "Innocent Kids Juicy Water – Apples &amp; Strawberries préparé avec des ingrédients de qualité signé Burger King pour un goût authentique.",
+      "badge": "👶 Enfants"
+    }
+  },
+  "de": {
+    "Fully Loaded Croissanwich with Egg.gmsr.png": {
+      "name": "Fully Loaded Croissanwich® mit Ei",
+      "desc": "Das ultimative BK Frühstückssandwich: Wurst, krosser Bacon, frisches Ei und geschmolzener Käse im warmen Buttercroissant.",
+      "badge": "⭐ Bestseller"
+    },
+    "Beef Croissan’wich with Egg.gmsr.png": {
+      "name": "Beef Croissan'wich® mit Ei",
+      "desc": "Flammengegrilltes Rindfleisch-Patty mit frischem Ei und Käse im buttrigen Croissant.",
+      "badge": "🔥 Beliebt"
+    },
+    "Beefacon Croissan’wich with Egg.gmsr.png": {
+      "name": "Beefacon Croissan'wich® mit Ei",
+      "desc": "Flammengegrilltes Rindfleisch-Patty mit frischem Ei und Käse im buttrigen Croissant.",
+      "badge": ""
+    },
+    "Chicken Strips Croissan’wich with Egg.gmsr.png": {
+      "name": "Chicken Strips Croissan'wich® mit Ei",
+      "desc": "Knusprige Hähnchenstreifen mit Ei und Käse im zarten Croissant-Brötchen.",
+      "badge": ""
+    },
+    "Chick’N Crisp Croissan’wich with Egg.gmsr.png": {
+      "name": "Chick'N Crisp Croissan'wich® mit Ei",
+      "desc": "Ein zartes, knuspriges Hähnchenfilet mit Ei auf warmem Croissant.",
+      "badge": ""
+    },
+    "Breakfast King.gmsr.avif": {
+      "name": "Breakfast King",
+      "desc": "Der König der Frühstücksburger: Saftiges Beef, Ei und Käse in einem herzhaften Brötchen.",
+      "badge": "👑 Der King"
+    },
+    "Potato Bites.gmsr.png": {
+      "name": "Potato Bites (Kartoffel-Happen)",
+      "desc": "Goldbraune, mundgerechte Kartoffel-Happen – außen kross, innen zart. Die perfekte Frühstücksbeilage.",
+      "badge": ""
+    },
+    "Espresso.gmsr.png": {
+      "name": "Espresso",
+      "desc": "Kräftiger, vollmundiger Espresso mit feiner Crema für den schnellen Energieschub.",
+      "badge": ""
+    },
+    "Americano.gmsr.avif": {
+      "name": "Americano Kaffee",
+      "desc": "Zweifacher Espresso mit heißem Wasser aufgegossen. Der klassische schwarze Muntermacher.",
+      "badge": ""
+    },
+    "Double WHOPPER.gmsr.avif": {
+      "name": "Double WHOPPER®",
+      "desc": "Zwei flammengegrillte Rindfleisch-Patties mit all den klassischen WHOPPER-Zutaten für den doppelten Genuss.",
+      "badge": ""
+    },
+    "WHOPPER with Bacon and Cheese.gmsr.avif": {
+      "name": "WHOPPER® mit Bacon &amp; Cheese",
+      "desc": "Der klassische WHOPPER® verfeinert mit knusprigem Bacon und zart schmelzendem Käse.",
+      "badge": ""
+    },
+    "Double WHOPPER with Bacon and Cheese.gmsr.avif": {
+      "name": "Double WHOPPER® mit Bacon &amp; Cheese",
+      "desc": "Der klassische WHOPPER® verfeinert mit knusprigem Bacon und zart schmelzendem Käse.",
+      "badge": ""
+    },
+    "Big King.gmsr.avif": {
+      "name": "Big King",
+      "desc": "Big King mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Big King Little King.gmsr.avif": {
+      "name": "Big King Little King",
+      "desc": "Big King Little King mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Big King Royale.gmsr.avif": {
+      "name": "Big King Royale",
+      "desc": "Big King Royale mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Big King Double Royale.gmsr.avif": {
+      "name": "Big King Double Royale",
+      "desc": "Big King Double Royale mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Chicken Royale.gmsr.png": {
+      "name": "Chicken Royale",
+      "desc": "Knuspriges Hähnchenbrustfilet mit knackigem Salat und feiner Mayonnaise im länglichen Sesambrötchen.",
+      "badge": "🔥 Fan Fave"
+    },
+    "Double Chicken Royale.gmsr.avif": {
+      "name": "Double Chicken Royale",
+      "desc": "Knuspriges Hähnchenbrustfilet mit knackigem Salat und feiner Mayonnaise im länglichen Sesambrötchen.",
+      "badge": ""
+    },
+    "Chicken Royale Bacon & Cheese.gmsr.avif": {
+      "name": "Chicken Royale Bacon &amp; Cheese",
+      "desc": "Knuspriges Hähnchenbrustfilet mit knackigem Salat und feiner Mayonnaise im länglichen Sesambrötchen.",
+      "badge": ""
+    },
+    "Double Chicken Royale Bacon & Cheese.gmsr.avif": {
+      "name": "Double Chicken Royale Bacon &amp; Cheese",
+      "desc": "Knuspriges Hähnchenbrustfilet mit knackigem Salat und feiner Mayonnaise im länglichen Sesambrötchen.",
+      "badge": ""
+    },
+    "Cheeseburger.gmsr.avif": {
+      "name": "Cheeseburger",
+      "desc": "Flammengegrilltes Beef mit zart schmelzendem Käse, Gurken, Ketchup und Senf.",
+      "badge": ""
+    },
+    "Double Cheeseburger.gmsr.avif": {
+      "name": "Double Cheeseburger",
+      "desc": "Flammengegrilltes Beef mit zart schmelzendem Käse, Gurken, Ketchup und Senf.",
+      "badge": ""
+    },
+    "Bacon Double Cheeseburger.gmsr.avif": {
+      "name": "Bacon Double Cheeseburger",
+      "desc": "Flammengegrilltes Beef mit zart schmelzendem Käse, Gurken, Ketchup und Senf.",
+      "badge": ""
+    },
+    "Bacon Double Cheese XL.gmsr.avif": {
+      "name": "Bacon Double Cheese XL",
+      "desc": "Bacon Double Cheese XL mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Hamburger.gmsr.avif": {
+      "name": "Hamburger",
+      "desc": "Hamburger mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Plant-Based WHOPPER.gmsr.avif": {
+      "name": "Plant-Based WHOPPER® (Pflanzlich)",
+      "desc": "Der unverwechselbare Burger King Geschmack auf rein pflanzlicher Basis – saftig und aromatisch.",
+      "badge": "🌱 Plant-Based"
+    },
+    "Vegan Royale.gmsr.avif": {
+      "name": "Vegan Royale (Vegan)",
+      "desc": "Der unverwechselbare Burger King Geschmack auf rein pflanzlicher Basis – saftig und aromatisch.",
+      "badge": "🌱 Vegan Zertifiziert"
+    },
+    "BBQ Steakhouse Angus.gmsr.avif": {
+      "name": "Wagyu Wellington",
+      "desc": "Wagyu Wellington mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": "✨ Premium"
+    },
+    "BBQ Steakhouse Crispy Chicken.gmsr.avif": {
+      "name": "The Wagyu",
+      "desc": "The Wagyu mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": "✨ Premium"
+    },
+    "Chicken Nuggets.gmsr.avif": {
+      "name": "Chicken Nuggets",
+      "desc": "Zarte Hähnchenstücke in knuspriger Panade – perfekt zum Dippen in leckeren Saucen.",
+      "badge": "🔥 Fan Fave"
+    },
+    "9pc Pringles Sour Cream & Onion Chicken Fries.gmsr.avif": {
+      "name": "9pc Pringles Sour Cream &amp; Onion Chicken Fries",
+      "desc": "Goldbraun gebackene Pommes Frites, herrlich knusprig und perfekt gesalzen.",
+      "badge": ""
+    },
+    "Garlic & Jalapeno Chicken Fries.gmsr.avif": {
+      "name": "Garlic &amp; Jalapeño Chicken Fries",
+      "desc": "Goldbraun gebackene Pommes Frites, herrlich knusprig und perfekt gesalzen.",
+      "badge": ""
+    },
+    "Chilli Cheese Bites.gmsr.avif": {
+      "name": "Chilli Cheese Bites",
+      "desc": "Chilli Cheese Bites mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Burger Buddies (3pc).gmsr.avif": {
+      "name": "Burger Buddies (3 Stück)",
+      "desc": "Burger Buddies (3 Stück) mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Burger Buddies (9pc).gmsr.avif": {
+      "name": "Burger Buddies (9 Stück)",
+      "desc": "Burger Buddies (9 Stück) mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Classic Chicken Melt.gmsr.avif": {
+      "name": "Classic Chicken Melt",
+      "desc": "Classic Chicken Melt mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Classic Double Beef Melt.gmsr.avif": {
+      "name": "Classic Double Beef Melt",
+      "desc": "Classic Double Beef Melt mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Fries.gmsr.avif": {
+      "name": "Pommes Frites",
+      "desc": "Goldbraun gebackene Pommes Frites, herrlich knusprig und perfekt gesalzen.",
+      "badge": "🔥 Classic"
+    },
+    "Onion Rings.gmsr.avif": {
+      "name": "Knusprige Zwiebelringe",
+      "desc": "Knusprige Zwiebelringe mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Loaded King Fries.gmsr.avif": {
+      "name": "Loaded King Fries",
+      "desc": "Loaded King Fries mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Loaded King Fries With Bacon.gmsr.avif": {
+      "name": "Loaded King Fries mit Bacon",
+      "desc": "Loaded King Fries mit Bacon mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Truffle Loaded King Fries.gmsr.avif": {
+      "name": "Trüffel Loaded King Fries",
+      "desc": "Trüffel Loaded King Fries mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Loaded Force Fries.gmsr.avif": {
+      "name": "Loaded Force Fries",
+      "desc": "Loaded Force Fries mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Halloumi Fries.gmsr.avif": {
+      "name": "Halloumi Fries",
+      "desc": "Halloumi Fries mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": "🧀 Veggie"
+    },
+    "BBQ Dip Pot.gmsr.avif": {
+      "name": "BBQ Dip Sauce",
+      "desc": "BBQ Dip Sauce mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Sweet Chilli Dip Pot.gmsr.avif": {
+      "name": "Sweet Chilli Dip",
+      "desc": "Sweet Chilli Dip mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Cheddar Cheese Sauce XL.gmsr.avif": {
+      "name": "Cheddar Cheese Sauce XL",
+      "desc": "Cheddar Cheese Sauce XL mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "BBQ Stacker King Box – Beef.gmsr.avif": {
+      "name": "BBQ Stacker King Box – Beef",
+      "desc": "BBQ Stacker King Box – Beef mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": "📦 Box Deal"
+    },
+    "BBQ Stacker King Box – Chicken.gmsr.avif": {
+      "name": "BBQ Stacker King Box – Chicken",
+      "desc": "BBQ Stacker King Box – Chicken mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": "📦 Box Deal"
+    },
+    "Beef Melt King Box.gmsr.avif": {
+      "name": "Beef Melt King Box",
+      "desc": "Beef Melt King Box mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Chicken Melt King Box.gmsr.avif": {
+      "name": "Chicken Melt King Box",
+      "desc": "Chicken Melt King Box mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Chicken Melt Meal.gmsr.avif": {
+      "name": "Chicken Melt Menü",
+      "desc": "Chicken Melt Menü mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Double Beef Melt Meal.gmsr.avif": {
+      "name": "Double Beef Melt Menü",
+      "desc": "Double Beef Melt Menü mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Beef Melt & Fries.gmsr.avif": {
+      "name": "Beef Melt &amp; Fries",
+      "desc": "Goldbraun gebackene Pommes Frites, herrlich knusprig und perfekt gesalzen.",
+      "badge": ""
+    },
+    "Chicken Melt & Fries.gmsr.avif": {
+      "name": "Chicken Melt &amp; Fries",
+      "desc": "Goldbraun gebackene Pommes Frites, herrlich knusprig und perfekt gesalzen.",
+      "badge": ""
+    },
+    "Pringles Sour Cream & Onion King Box – Beef Melts.gmsr.avif": {
+      "name": "Pringles Sour Cream &amp; Onion King Box – Beef Melts",
+      "desc": "Pringles Sour Cream &amp; Onion King Box – Beef Melts mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": "🎉 Special"
+    },
+    "Kids Cheeseburger Meal.gmsr.avif": {
+      "name": "Kids Cheeseburger Menü",
+      "desc": "Flammengegrilltes Beef mit zart schmelzendem Käse, Gurken, Ketchup und Senf.",
+      "badge": "👶 Kids"
+    },
+    "Kids Hamburger Meal.gmsr.avif": {
+      "name": "Kids Hamburger Menü",
+      "desc": "Kids Hamburger Menü mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": "👶 Kids"
+    },
+    "Kids Chicken Nuggets Meal.gmsr.avif": {
+      "name": "Kids Chicken Nuggets Menü",
+      "desc": "Zarte Hähnchenstücke in knuspriger Panade – perfekt zum Dippen in leckeren Saucen.",
+      "badge": "👶 Kids"
+    },
+    "Kids Whopper Meal.gmsr.avif": {
+      "name": "Kids Whopper Menü",
+      "desc": "Der legendäre WHOPPER®: 100% flammengegrilltes Rindfleisch, frische Tomaten, Salat, Gurken und cremige Mayonnaise im Sesambrötchen.",
+      "badge": "👶 Kids"
+    },
+    "Galactic Mandalorian Chicken Royale Meal.gmsr.avif": {
+      "name": "Galactic Mandalorian Chicken Royale Menü",
+      "desc": "Knuspriges Hähnchenbrustfilet mit knackigem Salat und feiner Mayonnaise im länglichen Sesambrötchen.",
+      "badge": "⭐ Limited"
+    },
+    "Vanilla Sundae.gmsr.avif": {
+      "name": "Vanille Sundae",
+      "desc": "Cremiges Softeis mit feinem Topping für den süßen Abschluss.",
+      "badge": ""
+    },
+    "Chocolate Sundae.gmsr.avif": {
+      "name": "Schoko Sundae",
+      "desc": "Cremiges Softeis mit feinem Topping für den süßen Abschluss.",
+      "badge": ""
+    },
+    "Strawberry Sundae.gmsr.avif": {
+      "name": "Erdbeer Sundae",
+      "desc": "Cremiges Softeis mit feinem Topping für den süßen Abschluss.",
+      "badge": ""
+    },
+    "Salted Caramel Sundae.gmsr.avif": {
+      "name": "Salted Caramel Sundae",
+      "desc": "Cremiges Softeis mit feinem Topping für den süßen Abschluss.",
+      "badge": ""
+    },
+    "Grogu’s Sundae.gmsr.avif": {
+      "name": "Grogu's Sundae",
+      "desc": "Cremiges Softeis mit feinem Topping für den süßen Abschluss.",
+      "badge": "⭐ Special"
+    },
+    "Mini Grogu’s Sundae.gmsr.avif": {
+      "name": "Mini Grogu's Sundae",
+      "desc": "Cremiges Softeis mit feinem Topping für den süßen Abschluss.",
+      "badge": ""
+    },
+    "Vanilla Milkshake.gmsr.avif": {
+      "name": "Vanille Milkshake",
+      "desc": "Cremig gerührter, erfrischender Milchshake in köstlichen Geschmacksrichtungen.",
+      "badge": ""
+    },
+    "Chocolate Milkshake.gmsr.avif": {
+      "name": "Schoko Milkshake",
+      "desc": "Cremig gerührter, erfrischender Milchshake in köstlichen Geschmacksrichtungen.",
+      "badge": ""
+    },
+    "Strawberry Milkshake.gmsr.avif": {
+      "name": "Erdbeer Milkshake",
+      "desc": "Cremig gerührter, erfrischender Milchshake in köstlichen Geschmacksrichtungen.",
+      "badge": ""
+    },
+    "Salted Caramel Milkshake.gmsr.avif": {
+      "name": "Salted Caramel Milkshake",
+      "desc": "Cremig gerührter, erfrischender Milchshake in köstlichen Geschmacksrichtungen.",
+      "badge": ""
+    },
+    "Twix Shake.gmsr.avif": {
+      "name": "Twix Shake",
+      "desc": "Cremig gerührter, erfrischender Milchshake in köstlichen Geschmacksrichtungen.",
+      "badge": ""
+    },
+    "Smarties Fusion.gmsr.avif": {
+      "name": "Smarties King Fusion",
+      "desc": "Cremiges Eis mit knusprigen Schokostückchen und feiner Sauce gemischt.",
+      "badge": ""
+    },
+    "Twix Fusion.gmsr.avif": {
+      "name": "Twix King Fusion",
+      "desc": "Cremiges Eis mit knusprigen Schokostückchen und feiner Sauce gemischt.",
+      "badge": ""
+    },
+    "King Fusion – Smarties.gmsr.avif": {
+      "name": "King Fusion – Smarties",
+      "desc": "Cremiges Eis mit knusprigen Schokostückchen und feiner Sauce gemischt.",
+      "badge": ""
+    },
+    "Mini Smarties Fusion.gmr.avif": {
+      "name": "Mini Smarties Fusion",
+      "desc": "Cremiges Eis mit knusprigen Schokostückchen und feiner Sauce gemischt.",
+      "badge": ""
+    },
+    "Mini Twix Fusion.gmsr.avif": {
+      "name": "Mini Twix Fusion",
+      "desc": "Cremiges Eis mit knusprigen Schokostückchen und feiner Sauce gemischt.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Cookie Dough.gmsr.avif": {
+      "name": "Ben &amp; Jerry's Cookie Dough",
+      "desc": "Ben &amp; Jerry's Cookie Dough mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Chocolate Fudge Brownie.gmsr.avif": {
+      "name": "Ben &amp; Jerry's Chocolate Fudge Brownie",
+      "desc": "Ben &amp; Jerry's Chocolate Fudge Brownie mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Caramel Chew Chew.gmsr.avif": {
+      "name": "Ben &amp; Jerry's Caramel Chew Chew",
+      "desc": "Ben &amp; Jerry's Caramel Chew Chew mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Chocolate Brownie Cheesecake Bar.gmsr.avif": {
+      "name": "Chocolate Brownie Cheesecake Bar",
+      "desc": "Chocolate Brownie Cheesecake Bar mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Gooey Salted Caramel Cheesecake Bar.gmsr.avif": {
+      "name": "Gooey Salted Caramel Cheesecake Bar",
+      "desc": "Gooey Salted Caramel Cheesecake Bar mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Strawberry Milkshake Cheesecake Bar.gmsr.avif": {
+      "name": "Strawberry Milkshake Cheesecake Bar",
+      "desc": "Cremig gerührter, erfrischender Milchshake in köstlichen Geschmacksrichtungen.",
+      "badge": ""
+    },
+    "Coca-Cola.gmsr.avif": {
+      "name": "Coca-Cola® Original",
+      "desc": "Eiskalter, kohlensäurehaltiger Softdrink – die ideale Erfrischung zu jeder Mahlzeit.",
+      "badge": ""
+    },
+    "Diet Coca-Cola.gmsr.avif": {
+      "name": "Coca-Cola Light",
+      "desc": "Eiskalter, kohlensäurehaltiger Softdrink – die ideale Erfrischung zu jeder Mahlzeit.",
+      "badge": ""
+    },
+    "Coca-Cola Zero.gmsr.avif": {
+      "name": "Coca-Cola Zero Zucker",
+      "desc": "Eiskalter, kohlensäurehaltiger Softdrink – die ideale Erfrischung zu jeder Mahlzeit.",
+      "badge": ""
+    },
+    "Fanta Zero.gmsr.avif": {
+      "name": "Fanta Zero",
+      "desc": "Eiskalter, kohlensäurehaltiger Softdrink – die ideale Erfrischung zu jeder Mahlzeit.",
+      "badge": ""
+    },
+    "Sprite Zero.gmsr.avif": {
+      "name": "Sprite Zero",
+      "desc": "Eiskalter, kohlensäurehaltiger Softdrink – die ideale Erfrischung zu jeder Mahlzeit.",
+      "badge": ""
+    },
+    "Dr Pepper Zero.gmsr.avif": {
+      "name": "Dr Pepper Zero",
+      "desc": "Dr Pepper Zero mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Frozen Fanta – Blue Raspberry.gmsr.avif": {
+      "name": "Frozen Fanta – Blue Raspberry",
+      "desc": "Eiskalter, kohlensäurehaltiger Softdrink – die ideale Erfrischung zu jeder Mahlzeit.",
+      "badge": ""
+    },
+    "Frozen Fanta – Strawberry.gmsr.avif": {
+      "name": "Frozen Fanta – Strawberry",
+      "desc": "Eiskalter, kohlensäurehaltiger Softdrink – die ideale Erfrischung zu jeder Mahlzeit.",
+      "badge": ""
+    },
+    "Frozen Fanta – Strawberry & Blue Raspberry.gmsr.avif": {
+      "name": "Frozen Fanta – Strawberry &amp; Blue Raspberry",
+      "desc": "Eiskalter, kohlensäurehaltiger Softdrink – die ideale Erfrischung zu jeder Mahlzeit.",
+      "badge": ""
+    },
+    "Monster Original 500ml.gmsr.avif": {
+      "name": "Monster Energy Original 500ml",
+      "desc": "Monster Energy Original 500ml mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Monster Mango Loco 500ml.gmsr.avif": {
+      "name": "Monster Mango Loco 500ml",
+      "desc": "Monster Mango Loco 500ml mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Monster Ultra White Zero Sugar 500ml.gmsr.avif": {
+      "name": "Monster Ultra White Zero Sugar 500ml",
+      "desc": "Monster Ultra White Zero Sugar 500ml mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Cappuccino.gmsr.avif": {
+      "name": "Cappuccino",
+      "desc": "Aromatischer Espresso mit cremig geschäumter Milch.",
+      "badge": ""
+    },
+    "Latte.gmsr.avif": {
+      "name": "Caffè Latte",
+      "desc": "Feiner Espresso mit viel heißer Milch für ein herrlich mildes Kaffeeerlebnis.",
+      "badge": ""
+    },
+    "Flat White.gmsr.avif": {
+      "name": "Flat White",
+      "desc": "Starker Espresso mit feinporiger Mikromilchschaumhaube.",
+      "badge": ""
+    },
+    "Hot Chocolate.gmsr.avif": {
+      "name": "Heiße Schokolade",
+      "desc": "Reichhaltige, heiße Schokolade – vollmundig, cremig und wunderbar wärmend.",
+      "badge": ""
+    },
+    "Tea.gmsr.avif": {
+      "name": "Feiner Tee",
+      "desc": "Klassischer britischer Schwarztee, frisch aufgebrüht und belebend.",
+      "badge": ""
+    },
+    "Semi-Skimmed Milk.gmsr.avif": {
+      "name": "Semi-Skimmed Milk",
+      "desc": "Semi-Skimmed Milk mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Bottled Water.gmsr.avif": {
+      "name": "Mineralwasser Flasche",
+      "desc": "Mineralwasser Flasche mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": ""
+    },
+    "Innocent Kids Juicy Water Apples And Mangoes.gmsr.avif": {
+      "name": "Innocent Kids Juicy Water – Apples &amp; Mangoes",
+      "desc": "Innocent Kids Juicy Water – Apples &amp; Mangoes mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": "👶 Kids"
+    },
+    "Innocent Kids Juicy Water Apples And Strawberries.gmsr.avif": {
+      "name": "Innocent Kids Juicy Water – Apples &amp; Strawberries",
+      "desc": "Innocent Kids Juicy Water – Apples &amp; Strawberries mit besten Zutaten frisch zubereitet für echten Burger King Genuss.",
+      "badge": "👶 Kids"
+    }
+  },
+  "hi": {
+    "Fully Loaded Croissanwich with Egg.gmsr.png": {
+      "name": "फुल्ली लोडेड क्रॉसों'विच® अंडे के साथ",
+      "desc": "बीके का सबसे बेहतरीन ब्रेकफास्ट सैंडविच: सॉसेज, क्रिस्पी बेकन, ताजा अंडा और पिघला हुआ चीज़ परतदार क्रॉसों बन में।",
+      "badge": "⭐ बेस्ट सेलर"
+    },
+    "Beef Croissan’wich with Egg.gmsr.png": {
+      "name": "बीफ क्रॉसों'विच® अंडे के साथ",
+      "desc": "फ्लेम-ग्रिल्ड पैटी, ताजा अंडा और पिघले हुए चीज़ के साथ मक्खनयुक्त क्रॉसों बन।",
+      "badge": "🔥 लोकप्रिय"
+    },
+    "Beefacon Croissan’wich with Egg.gmsr.png": {
+      "name": "बीफैकन क्रॉसों'विच® अंडे के साथ",
+      "desc": "फ्लेम-ग्रिल्ड पैटी, ताजा अंडा और पिघले हुए चीज़ के साथ मक्खनयुक्त क्रॉसों बन।",
+      "badge": ""
+    },
+    "Chicken Strips Croissan’wich with Egg.gmsr.png": {
+      "name": "चिकन स्ट्रिप्स क्रॉसों'विच® अंडे के साथ",
+      "desc": "क्रिस्पी चिकन स्ट्रिप्स, अंडा और चीज़ का स्वादिष्ट संयोजन।",
+      "badge": ""
+    },
+    "Chick’N Crisp Croissan’wich with Egg.gmsr.png": {
+      "name": "चिक'एन क्रिस्प क्रॉसों'विच® अंडे के साथ",
+      "desc": "हल्का और कुरकुरा चिकन फिलेट ताजे अंडे के साथ।",
+      "badge": ""
+    },
+    "Breakfast King.gmsr.avif": {
+      "name": "ब्रेकफास्ट किंग",
+      "desc": "सुबह के नाश्ते का सबसे खास बर्गर: फ्लेम-ग्रिल्ड पैटी, अंडा और चीज़ से बना पेट भरने वाला बर्गर।",
+      "badge": "👑 द किंग"
+    },
+    "Potato Bites.gmsr.png": {
+      "name": "पोटैटो बाइट्स",
+      "desc": "बाहर से कुरकुरी और अंदर से नरम सुनहरी आलू बाइट्स – नाश्ते का अनिवार्य हिस्सा।",
+      "badge": ""
+    },
+    "Espresso.gmsr.png": {
+      "name": "एस्प्रेंसो कॉफी",
+      "desc": "ताज़ा ब्रू किया हुआ गाढ़ा और सुगंधित एस्प्रेसो शॉट।",
+      "badge": ""
+    },
+    "Americano.gmsr.avif": {
+      "name": "अमेरिकानो कॉफी",
+      "desc": "100% अरेबिका बीन्स से बनी ताज़ा ब्रू की हुई रिच और स्मूथ कॉफी।",
+      "badge": ""
+    },
+    "Double WHOPPER.gmsr.avif": {
+      "name": "डबल व्हॉपर®",
+      "desc": "दो फ्लेम-ग्रिल्ड पैटीज़ और सभी क्लासिक टॉपिंग्स के साथ डबल व्हॉपर।",
+      "badge": ""
+    },
+    "WHOPPER with Bacon and Cheese.gmsr.avif": {
+      "name": "WHOPPER® with Bacon औरamp; Cheese",
+      "desc": "क्लासिक व्हॉपर कुरकुरे बेकन और स्वादिष्ट पिघले हुए चीज़ के साथ।",
+      "badge": ""
+    },
+    "Double WHOPPER with Bacon and Cheese.gmsr.avif": {
+      "name": "Double WHOPPER® with Bacon औरamp; Cheese",
+      "desc": "क्लासिक व्हॉपर कुरकुरे बेकन और स्वादिष्ट पिघले हुए चीज़ के साथ।",
+      "badge": ""
+    },
+    "Big King.gmsr.avif": {
+      "name": "बिग किंग",
+      "desc": "बिग किंग - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Big King Little King.gmsr.avif": {
+      "name": "बिग किंग लिटिल किंग",
+      "desc": "बिग किंग लिटिल किंग - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Big King Royale.gmsr.avif": {
+      "name": "बिग किंग रॉयल",
+      "desc": "बिग किंग रॉयल - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Big King Double Royale.gmsr.avif": {
+      "name": "बिग किंग डबल रॉयल",
+      "desc": "बिग किंग डबल रॉयल - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Chicken Royale.gmsr.png": {
+      "name": "चिकन रॉयल",
+      "desc": "क्रिस्पी चिकन फिलेट, ताज़ी लेट्यूस और मेयोनीज़ के साथ तिल वाले लंबे बन में।",
+      "badge": "🔥 Fan Fave"
+    },
+    "Double Chicken Royale.gmsr.avif": {
+      "name": "डबल चिकन रॉयल",
+      "desc": "क्रिस्पी चिकन फिलेट, ताज़ी लेट्यूस और मेयोनीज़ के साथ तिल वाले लंबे बन में।",
+      "badge": ""
+    },
+    "Chicken Royale Bacon & Cheese.gmsr.avif": {
+      "name": "Chicken Royale Bacon औरamp; Cheese",
+      "desc": "क्रिस्पी चिकन फिलेट, ताज़ी लेट्यूस और मेयोनीज़ के साथ तिल वाले लंबे बन में।",
+      "badge": ""
+    },
+    "Double Chicken Royale Bacon & Cheese.gmsr.avif": {
+      "name": "Double Chicken Royale Bacon औरamp; Cheese",
+      "desc": "क्रिस्पी चिकन फिलेट, ताज़ी लेट्यूस और मेयोनीज़ के साथ तिल वाले लंबे बन में।",
+      "badge": ""
+    },
+    "Cheeseburger.gmsr.avif": {
+      "name": "चीज़बर्गर",
+      "desc": "फ्लेम-ग्रिल्ड पैटी, पिघला हुआ चीज़, पिकल्स, केचप और मस्टर्ड के साथ स्वादिष्ट चीज़बर्गर।",
+      "badge": ""
+    },
+    "Double Cheeseburger.gmsr.avif": {
+      "name": "डबल चीज़बर्गर",
+      "desc": "फ्लेम-ग्रिल्ड पैटी, पिघला हुआ चीज़, पिकल्स, केचप और मस्टर्ड के साथ स्वादिष्ट चीज़बर्गर।",
+      "badge": ""
+    },
+    "Bacon Double Cheeseburger.gmsr.avif": {
+      "name": "बेकन डबल चीज़बर्गर",
+      "desc": "फ्लेम-ग्रिल्ड पैटी, पिघला हुआ चीज़, पिकल्स, केचप और मस्टर्ड के साथ स्वादिष्ट चीज़बर्गर।",
+      "badge": ""
+    },
+    "Bacon Double Cheese XL.gmsr.avif": {
+      "name": "बेकन डबल चीज़ XL",
+      "desc": "बेकन डबल चीज़ XL - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Hamburger.gmsr.avif": {
+      "name": "हैमबर्गर",
+      "desc": "हैमबर्गर - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Plant-Based WHOPPER.gmsr.avif": {
+      "name": "प्लांट-बेस्ड व्हॉपर®",
+      "desc": "बर्गर किंग का प्रामाणिक स्वाद अब 100% शाकाहारी और प्लांट-बेस्ड विकल्प में।",
+      "badge": "🌱 Plant-Based"
+    },
+    "Vegan Royale.gmsr.avif": {
+      "name": "वीगन रॉयल",
+      "desc": "बर्गर किंग का प्रामाणिक स्वाद अब 100% शाकाहारी और प्लांट-बेस्ड विकल्प में।",
+      "badge": "🌱 वीगन प्रमाणित"
+    },
+    "BBQ Steakhouse Angus.gmsr.avif": {
+      "name": "वाग्यू वेलिंगटन",
+      "desc": "वाग्यू वेलिंगटन - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": "✨ Premium"
+    },
+    "BBQ Steakhouse Crispy Chicken.gmsr.avif": {
+      "name": "द वाग्यू",
+      "desc": "द वाग्यू - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": "✨ Premium"
+    },
+    "Chicken Nuggets.gmsr.avif": {
+      "name": "चिकन नगेट्स",
+      "desc": "कुरकुरे चिकन नगेट्स जिन्हें अपनी मनपसंद डिप सॉस के साथ एन्जॉय करें।",
+      "badge": "🔥 Fan Fave"
+    },
+    "9pc Pringles Sour Cream & Onion Chicken Fries.gmsr.avif": {
+      "name": "9pc Pringles Sour Cream औरamp; Onion Chicken Fries",
+      "desc": "कुरकुरी सुनहरी फ्रेंच फ्राइज़, हल्के नमक के साथ।",
+      "badge": ""
+    },
+    "Garlic & Jalapeno Chicken Fries.gmsr.avif": {
+      "name": "Garlic औरamp; Jalapeño Chicken Fries",
+      "desc": "कुरकुरी सुनहरी फ्रेंच फ्राइज़, हल्के नमक के साथ।",
+      "badge": ""
+    },
+    "Chilli Cheese Bites.gmsr.avif": {
+      "name": "चिली चीज़ बाइट्स",
+      "desc": "चिली चीज़ बाइट्स - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Burger Buddies (3pc).gmsr.avif": {
+      "name": "बर्गर बडीज़ (3 पीस)",
+      "desc": "बर्गर बडीज़ (3 पीस) - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Burger Buddies (9pc).gmsr.avif": {
+      "name": "बर्गर बडीज़ (9 पीस)",
+      "desc": "बर्गर बडीज़ (9 पीस) - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Classic Chicken Melt.gmsr.avif": {
+      "name": "Classic Chicken Melt",
+      "desc": "Classic Chicken Melt - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Classic Double Beef Melt.gmsr.avif": {
+      "name": "Classic Double Beef Melt",
+      "desc": "Classic Double Beef Melt - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Fries.gmsr.avif": {
+      "name": "फ्रेंच फ्राइज़",
+      "desc": "कुरकुरी सुनहरी फ्रेंच फ्राइज़, हल्के नमक के साथ।",
+      "badge": "🔥 Classic"
+    },
+    "Onion Rings.gmsr.avif": {
+      "name": "क्रिस्पी अनियन रिंग्स",
+      "desc": "क्रिस्पी अनियन रिंग्स - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Loaded King Fries.gmsr.avif": {
+      "name": "लोडेड किंग फ्राइज़",
+      "desc": "लोडेड किंग फ्राइज़ - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Loaded King Fries With Bacon.gmsr.avif": {
+      "name": "Loaded King Fries with Bacon",
+      "desc": "Loaded King Fries with Bacon - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Truffle Loaded King Fries.gmsr.avif": {
+      "name": "ट्रफल लोडेड किंग फ्राइज़",
+      "desc": "ट्रफल लोडेड किंग फ्राइज़ - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Loaded Force Fries.gmsr.avif": {
+      "name": "लोडेड फोर्स फ्राइज़",
+      "desc": "लोडेड फोर्स फ्राइज़ - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Halloumi Fries.gmsr.avif": {
+      "name": "हलोमी फ्राइज़",
+      "desc": "हलोमी फ्राइज़ - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": "🧀 Veggie"
+    },
+    "BBQ Dip Pot.gmsr.avif": {
+      "name": "BBQ डिप पॉट",
+      "desc": "BBQ डिप पॉट - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Sweet Chilli Dip Pot.gmsr.avif": {
+      "name": "स्वीट चिली डिप",
+      "desc": "स्वीट चिली डिप - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Cheddar Cheese Sauce XL.gmsr.avif": {
+      "name": "चेडर चीज़ सॉस XL",
+      "desc": "चेडर चीज़ सॉस XL - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "BBQ Stacker King Box – Beef.gmsr.avif": {
+      "name": "BBQ Stacker King बॉक्स – Beef",
+      "desc": "BBQ Stacker King बॉक्स – Beef - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": "📦 Box Deal"
+    },
+    "BBQ Stacker King Box – Chicken.gmsr.avif": {
+      "name": "BBQ Stacker King बॉक्स – Chicken",
+      "desc": "BBQ Stacker King बॉक्स – Chicken - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": "📦 Box Deal"
+    },
+    "Beef Melt King Box.gmsr.avif": {
+      "name": "Beef Melt King बॉक्स",
+      "desc": "Beef Melt King बॉक्स - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Chicken Melt King Box.gmsr.avif": {
+      "name": "Chicken Melt King बॉक्स",
+      "desc": "Chicken Melt King बॉक्स - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Chicken Melt Meal.gmsr.avif": {
+      "name": "Chicken Melt मील",
+      "desc": "Chicken Melt मील - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Double Beef Melt Meal.gmsr.avif": {
+      "name": "Double Beef Melt मील",
+      "desc": "Double Beef Melt मील - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Beef Melt & Fries.gmsr.avif": {
+      "name": "Beef Melt औरamp; Fries",
+      "desc": "कुरकुरी सुनहरी फ्रेंच फ्राइज़, हल्के नमक के साथ।",
+      "badge": ""
+    },
+    "Chicken Melt & Fries.gmsr.avif": {
+      "name": "Chicken Melt औरamp; Fries",
+      "desc": "कुरकुरी सुनहरी फ्रेंच फ्राइज़, हल्के नमक के साथ।",
+      "badge": ""
+    },
+    "Pringles Sour Cream & Onion King Box – Beef Melts.gmsr.avif": {
+      "name": "Pringles Sour Cream औरamp; Onion King बॉक्स – Beef Melts",
+      "desc": "Pringles Sour Cream औरamp; Onion King बॉक्स – Beef Melts - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": "🎉 Special"
+    },
+    "Kids Cheeseburger Meal.gmsr.avif": {
+      "name": "Kids Cheeseburger मील",
+      "desc": "फ्लेम-ग्रिल्ड पैटी, पिघला हुआ चीज़, पिकल्स, केचप और मस्टर्ड के साथ स्वादिष्ट चीज़बर्गर।",
+      "badge": "👶 किड्स"
+    },
+    "Kids Hamburger Meal.gmsr.avif": {
+      "name": "Kids Hamburger मील",
+      "desc": "Kids Hamburger मील - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": "👶 किड्स"
+    },
+    "Kids Chicken Nuggets Meal.gmsr.avif": {
+      "name": "Kids Chicken Nuggets मील",
+      "desc": "कुरकुरे चिकन नगेट्स जिन्हें अपनी मनपसंद डिप सॉस के साथ एन्जॉय करें।",
+      "badge": "👶 किड्स"
+    },
+    "Kids Whopper Meal.gmsr.avif": {
+      "name": "Kids Whopper मील",
+      "desc": "प्रसिद्ध व्हॉपर®: फ्लेम-ग्रिल्ड पैटी, ताज़ा टमाटर, लेट्यूस, मेयोनीज़, केचप और पिकल्स के साथ टोस्टेड तिल वाला बन।",
+      "badge": "👶 किड्स"
+    },
+    "Galactic Mandalorian Chicken Royale Meal.gmsr.avif": {
+      "name": "Galactic Mandalorian Chicken Royale मील",
+      "desc": "क्रिस्पी चिकन फिलेट, ताज़ी लेट्यूस और मेयोनीज़ के साथ तिल वाले लंबे बन में।",
+      "badge": "⭐ Limited"
+    },
+    "Vanilla Sundae.gmsr.avif": {
+      "name": "वैनिला संडे",
+      "desc": "क्रीमी सॉफ्ट वैनिला आइसक्रीम स्वादिष्ट सिरप टॉपिंग के साथ।",
+      "badge": ""
+    },
+    "Chocolate Sundae.gmsr.avif": {
+      "name": "चॉकलेट संडे",
+      "desc": "क्रीमी सॉफ्ट वैनिला आइसक्रीम स्वादिष्ट सिरप टॉपिंग के साथ।",
+      "badge": ""
+    },
+    "Strawberry Sundae.gmsr.avif": {
+      "name": "स्ट्रॉबेरी संडे",
+      "desc": "क्रीमी सॉफ्ट वैनिला आइसक्रीम स्वादिष्ट सिरप टॉपिंग के साथ।",
+      "badge": ""
+    },
+    "Salted Caramel Sundae.gmsr.avif": {
+      "name": "सॉल्टेड कारमेल संडे",
+      "desc": "क्रीमी सॉफ्ट वैनिला आइसक्रीम स्वादिष्ट सिरप टॉपिंग के साथ।",
+      "badge": ""
+    },
+    "Grogu’s Sundae.gmsr.avif": {
+      "name": "Grogu's Sundae",
+      "desc": "क्रीमी सॉफ्ट वैनिला आइसक्रीम स्वादिष्ट सिरप टॉपिंग के साथ।",
+      "badge": "⭐ Special"
+    },
+    "Mini Grogu’s Sundae.gmsr.avif": {
+      "name": "Mini Grogu's Sundae",
+      "desc": "क्रीमी सॉफ्ट वैनिला आइसक्रीम स्वादिष्ट सिरप टॉपिंग के साथ।",
+      "badge": ""
+    },
+    "Vanilla Milkshake.gmsr.avif": {
+      "name": "वैनिला मिल्कशेक",
+      "desc": "गाढ़ा और ठंडा मिल्कशेक ताज़ी आइसक्रीम के साथ।",
+      "badge": ""
+    },
+    "Chocolate Milkshake.gmsr.avif": {
+      "name": "चॉकलेट मिल्कशेक",
+      "desc": "गाढ़ा और ठंडा मिल्कशेक ताज़ी आइसक्रीम के साथ।",
+      "badge": ""
+    },
+    "Strawberry Milkshake.gmsr.avif": {
+      "name": "स्ट्रॉबेरी मिल्कशेक",
+      "desc": "गाढ़ा और ठंडा मिल्कशेक ताज़ी आइसक्रीम के साथ।",
+      "badge": ""
+    },
+    "Salted Caramel Milkshake.gmsr.avif": {
+      "name": "सॉल्टेड कारमेल मिल्कशेक",
+      "desc": "गाढ़ा और ठंडा मिल्कशेक ताज़ी आइसक्रीम के साथ।",
+      "badge": ""
+    },
+    "Twix Shake.gmsr.avif": {
+      "name": "Twix Shake",
+      "desc": "गाढ़ा और ठंडा मिल्कशेक ताज़ी आइसक्रीम के साथ।",
+      "badge": ""
+    },
+    "Smarties Fusion.gmsr.avif": {
+      "name": "स्मार्टीज़ किंग फ्यूजन",
+      "desc": "क्रीमी आइसक्रीम के साथ चॉकलेट और क्रंची टॉपिंग्स का संगम।",
+      "badge": ""
+    },
+    "Twix Fusion.gmsr.avif": {
+      "name": "ट्विक्स किंग फ्यूजन",
+      "desc": "क्रीमी आइसक्रीम के साथ चॉकलेट और क्रंची टॉपिंग्स का संगम।",
+      "badge": ""
+    },
+    "King Fusion – Smarties.gmsr.avif": {
+      "name": "King Fusion – Smarties",
+      "desc": "क्रीमी आइसक्रीम के साथ चॉकलेट और क्रंची टॉपिंग्स का संगम।",
+      "badge": ""
+    },
+    "Mini Smarties Fusion.gmr.avif": {
+      "name": "Mini Smarties Fusion",
+      "desc": "क्रीमी आइसक्रीम के साथ चॉकलेट और क्रंची टॉपिंग्स का संगम।",
+      "badge": ""
+    },
+    "Mini Twix Fusion.gmsr.avif": {
+      "name": "Mini Twix Fusion",
+      "desc": "क्रीमी आइसक्रीम के साथ चॉकलेट और क्रंची टॉपिंग्स का संगम।",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Cookie Dough.gmsr.avif": {
+      "name": "Ben औरamp; Jerry's Cookie Dough",
+      "desc": "Ben औरamp; Jerry's Cookie Dough - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Chocolate Fudge Brownie.gmsr.avif": {
+      "name": "Ben औरamp; Jerry's Chocolate Fudge Brownie",
+      "desc": "Ben औरamp; Jerry's Chocolate Fudge Brownie - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Small Ben & Jerry’s Caramel Chew Chew.gmsr.avif": {
+      "name": "Ben औरamp; Jerry's Caramel Chew Chew",
+      "desc": "Ben औरamp; Jerry's Caramel Chew Chew - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Chocolate Brownie Cheesecake Bar.gmsr.avif": {
+      "name": "Chocolate Brownie Cheesecake Bar",
+      "desc": "Chocolate Brownie Cheesecake Bar - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Gooey Salted Caramel Cheesecake Bar.gmsr.avif": {
+      "name": "Gooey Salted Caramel Cheesecake Bar",
+      "desc": "Gooey Salted Caramel Cheesecake Bar - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Strawberry Milkshake Cheesecake Bar.gmsr.avif": {
+      "name": "Strawberry Milkshake Cheesecake Bar",
+      "desc": "गाढ़ा और ठंडा मिल्कशेक ताज़ी आइसक्रीम के साथ।",
+      "badge": ""
+    },
+    "Coca-Cola.gmsr.avif": {
+      "name": "कोका-कोला®",
+      "desc": "ठंडा और ताज़गी भरा कार्बोनेटेड सॉफ्ट ड्रिंक।",
+      "badge": ""
+    },
+    "Diet Coca-Cola.gmsr.avif": {
+      "name": "डाइट कोका-कोला®",
+      "desc": "ठंडा और ताज़गी भरा कार्बोनेटेड सॉफ्ट ड्रिंक।",
+      "badge": ""
+    },
+    "Coca-Cola Zero.gmsr.avif": {
+      "name": "कोका-कोला ज़ीरो शुगर",
+      "desc": "ठंडा और ताज़गी भरा कार्बोनेटेड सॉफ्ट ड्रिंक।",
+      "badge": ""
+    },
+    "Fanta Zero.gmsr.avif": {
+      "name": "फैंटा ज़ीरो",
+      "desc": "ठंडा और ताज़गी भरा कार्बोनेटेड सॉफ्ट ड्रिंक।",
+      "badge": ""
+    },
+    "Sprite Zero.gmsr.avif": {
+      "name": "स्प्राइट ज़ीरो",
+      "desc": "ठंडा और ताज़गी भरा कार्बोनेटेड सॉफ्ट ड्रिंक।",
+      "badge": ""
+    },
+    "Dr Pepper Zero.gmsr.avif": {
+      "name": "Dr Pepper Zero",
+      "desc": "Dr Pepper Zero - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Frozen Fanta – Blue Raspberry.gmsr.avif": {
+      "name": "Frozen Fanta – Blue Raspberry",
+      "desc": "ठंडा और ताज़गी भरा कार्बोनेटेड सॉफ्ट ड्रिंक।",
+      "badge": ""
+    },
+    "Frozen Fanta – Strawberry.gmsr.avif": {
+      "name": "Frozen Fanta – Strawberry",
+      "desc": "ठंडा और ताज़गी भरा कार्बोनेटेड सॉफ्ट ड्रिंक।",
+      "badge": ""
+    },
+    "Frozen Fanta – Strawberry & Blue Raspberry.gmsr.avif": {
+      "name": "Frozen Fanta – Strawberry औरamp; Blue Raspberry",
+      "desc": "ठंडा और ताज़गी भरा कार्बोनेटेड सॉफ्ट ड्रिंक।",
+      "badge": ""
+    },
+    "Monster Original 500ml.gmsr.avif": {
+      "name": "Monster Energy Original 500ml",
+      "desc": "Monster Energy Original 500ml - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Monster Mango Loco 500ml.gmsr.avif": {
+      "name": "Monster Mango Loco 500ml",
+      "desc": "Monster Mango Loco 500ml - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Monster Ultra White Zero Sugar 500ml.gmsr.avif": {
+      "name": "Monster Ultra White Zero Sugar 500ml",
+      "desc": "Monster Ultra White Zero Sugar 500ml - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Cappuccino.gmsr.avif": {
+      "name": "कैपुचिनो",
+      "desc": "गाढ़े एस्प्रेसो और मखमली झागदार दूध से तैयार क्लासिक कैपुचिनो।",
+      "badge": ""
+    },
+    "Latte.gmsr.avif": {
+      "name": "लाते कॉफी",
+      "desc": "एस्प्रेसो और गर्म दूध का क्रीमी और स्मूथ मिश्रण।",
+      "badge": ""
+    },
+    "Flat White.gmsr.avif": {
+      "name": "फ्लैट व्हाइट कॉफी",
+      "desc": "स्ट्रॉन्ग एस्प्रेसो और सिल्की माइक्रो-फोम दूध के साथ बेहतरीन स्वाद।",
+      "badge": ""
+    },
+    "Hot Chocolate.gmsr.avif": {
+      "name": "हॉट चॉकलेट",
+      "desc": "गाढ़ी और स्वादिष्ट हॉट चॉकलेट जो ठंड में गर्माहट देती है।",
+      "badge": ""
+    },
+    "Tea.gmsr.avif": {
+      "name": "गर्म चाय",
+      "desc": "ताज़ी ब्रू की हुई पारंपरिक गर्म चाय।",
+      "badge": ""
+    },
+    "Semi-Skimmed Milk.gmsr.avif": {
+      "name": "Semi-Skimmed Milk",
+      "desc": "Semi-Skimmed Milk - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Bottled Water.gmsr.avif": {
+      "name": "मिनरल वाटर की बोतल",
+      "desc": "मिनरल वाटर की बोतल - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": ""
+    },
+    "Innocent Kids Juicy Water Apples And Mangoes.gmsr.avif": {
+      "name": "Innocent Kids Juicy Water – Apples औरamp; Mangoes",
+      "desc": "Innocent Kids Juicy Water – Apples औरamp; Mangoes - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": "👶 किड्स"
+    },
+    "Innocent Kids Juicy Water Apples And Strawberries.gmsr.avif": {
+      "name": "Innocent Kids Juicy Water – Apples औरamp; Strawberries",
+      "desc": "Innocent Kids Juicy Water – Apples औरamp; Strawberries - बर्गर किंग की गुणवत्तापूर्ण सामग्री से तैयार स्वादिष्ट आइटम।",
+      "badge": "👶 किड्स"
+    }
+  }
+}

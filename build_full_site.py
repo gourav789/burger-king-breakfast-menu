@@ -61,6 +61,9 @@ def generate_menu_page(lang, parsed_cards):
     asset_p = get_asset_prefix(lang)
     meta = PAGE_META['menu'][lang]
     
+    with open(os.path.join(BASE_DIR, 'menu_translations_all.json'), 'r', encoding='utf-8') as f:
+        menu_trans = json.load(f)
+
     categories = ['breakfast', 'burgers', 'chicken', 'sides', 'meals', 'desserts', 'drinks']
     
     sections_html = []
@@ -69,15 +72,35 @@ def generate_menu_page(lang, parsed_cards):
         cat_t = cat_info[lang]
         cat_cards = parsed_cards.get(cat_id, [])
         
-        # Adjust image paths for cards
-        adjusted_cards = []
-        for card in cat_cards:
-            c_html = card
-            # Fix any HTML entities in image src filenames
-            c_html = re.sub(r'src="([^"]+)"', lambda m: f'src="{m.group(1).replace("&amp;", "&")}"', c_html)
-            if asset_p:
-                c_html = re.sub(r'src="images/', f'src="{asset_p}images/', c_html)
-            adjusted_cards.append(c_html)
+        # Render translated cards
+        rendered_cards = []
+        for card_html in cat_cards:
+            # extract img filename
+            img_m = re.search(r'src="([^"]+)"', card_html)
+            img_filename = img_m.group(1).replace('images/', '').replace('../images/', '') if img_m else ''
+            # clean entities
+            img_filename = img_filename.replace('&amp;', '&')
+            
+            card_data = menu_trans.get(lang, {}).get(img_filename)
+            if not card_data:
+                card_data = menu_trans.get('en', {}).get(img_filename, {})
+            
+            c_name = card_data.get('name', 'Menu Item')
+            c_desc = card_data.get('desc', '')
+            c_badge = card_data.get('badge', '')
+            
+            badge_html = f'<span class="menu-card-badge">{c_badge}</span>' if c_badge else ''
+            
+            rendered_cards.append(f'''          <article class="menu-card" data-name="{c_name}">
+            <div class="menu-card-img">
+              <img src="{asset_p}images/{img_filename}" alt="{c_name} – {t['site_title']}" loading="lazy" />
+              {badge_html}
+            </div>
+            <div class="menu-card-body">
+              <div class="menu-card-name">{c_name}</div>
+              <div class="menu-card-desc">{c_desc}</div>
+            </div>
+          </article>''')
 
         grid_cls = "menu-grid large" if cat_id in ['breakfast', 'burgers'] else "menu-grid"
         
@@ -95,7 +118,7 @@ def generate_menu_page(lang, parsed_cards):
           <p>{cat_t['desc']}</p>
         </div>
         <div class="{grid_cls}">
-{chr(10).join(adjusted_cards)}
+{chr(10).join(rendered_cards)}
         </div>
       </section>''')
 

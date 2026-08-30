@@ -1,0 +1,858 @@
+[
+  {
+    "category": "breakfast",
+    "data_name": "Fully Loaded Croissanwich with Egg",
+    "img": "Fully Loaded Croissanwich with Egg.gmsr.png",
+    "badge": "⭐ Best Seller",
+    "name": "Fully Loaded Croissanwich® with Egg",
+    "desc": "The ultimate BK breakfast sandwich — sausage, crispy bacon, a fresh egg, and melted cheese, all wrapped in a warm, flaky croissant bun. Maximum flavour, maximum satisfaction."
+  },
+  {
+    "category": "breakfast",
+    "data_name": "Beef Croissan'wich with Egg",
+    "img": "Beef Croissan’wich with Egg.gmsr.png",
+    "badge": "🔥 Popular",
+    "name": "Beef Croissan'wich® with Egg",
+    "desc": "A flame-grilled beef patty layered with a fresh egg and melted cheese in a warm, buttery croissant. The signature smoky beef flavour makes this a firm favourite."
+  },
+  {
+    "category": "breakfast",
+    "data_name": "Beefacon Croissan'wich with Egg",
+    "img": "Beefacon Croissan’wich with Egg.gmsr.png",
+    "badge": "",
+    "name": "Beefacon Croissan'wich® with Egg",
+    "desc": "The best of beef and bacon together — a flame-grilled beef patty with crispy bacon, egg, and cheese on a golden croissant. Rich, satisfying, and deeply flavourful."
+  },
+  {
+    "category": "breakfast",
+    "data_name": "Chicken Strips Croissan'wich with Egg",
+    "img": "Chicken Strips Croissan’wich with Egg.gmsr.png",
+    "badge": "",
+    "name": "Chicken Strips Croissan'wich® with Egg",
+    "desc": "Crispy chicken strips with a fresh egg and melted cheese in a flaky croissant bun. A satisfying chicken breakfast option with great crunch in every bite."
+  },
+  {
+    "category": "breakfast",
+    "data_name": "Chick'N Crisp Croissan'wich with Egg",
+    "img": "Chick’N Crisp Croissan’wich with Egg.gmsr.png",
+    "badge": "",
+    "name": "Chick'N Crisp Croissan'wich® with Egg",
+    "desc": "A lighter crispy chicken fillet with egg and cheese on a warm croissant. Satisfying without being too heavy — perfect for a lighter morning bite."
+  },
+  {
+    "category": "breakfast",
+    "data_name": "Breakfast King",
+    "img": "Breakfast King.gmsr.avif",
+    "badge": "👑 The King",
+    "name": "Breakfast King",
+    "desc": "The monarch of morning burgers. A hearty flame-grilled breakfast burger with all the classic breakfast elements in one royal bite. For those who want a proper morning burger experience."
+  },
+  {
+    "category": "breakfast",
+    "data_name": "Potato Bites",
+    "img": "Potato Bites.gmsr.png",
+    "badge": "",
+    "name": "Potato Bites",
+    "desc": "Golden, crispy potato bites — the must-have breakfast side. Light, crunchy on the outside and fluffy within, these are the perfect companion to any Croissan'wich."
+  },
+  {
+    "category": "breakfast",
+    "data_name": "Espresso",
+    "img": "Espresso.gmsr.png",
+    "badge": "",
+    "name": "Espresso",
+    "desc": "Bold, rich single-shot espresso. The purest coffee experience on the BK breakfast drinks menu — intense, aromatic, and exactly what a morning needs."
+  },
+  {
+    "category": "breakfast",
+    "data_name": "Americano",
+    "img": "Americano.gmsr.avif",
+    "badge": "",
+    "name": "Americano",
+    "desc": "A double shot of espresso diluted with hot water for a smooth, strong black coffee. Classic, clean, and endlessly drinkable alongside any breakfast item."
+  },
+  {
+    "category": "burgers",
+    "data_name": "WHOPPER",
+    "img": "Double WHOPPER.gmsr.avif",
+    "badge": "👑 Iconic",
+    "name": "WHOPPER®",
+    "desc": "The legend itself — flame-grilled beef patty, fresh tomato, lettuce, creamy mayo, ketchup, pickles, and white onion on a toasted sesame bun. Since 1957 and still the best."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Double WHOPPER",
+    "img": "Double WHOPPER.gmsr.avif",
+    "badge": "",
+    "name": "Double WHOPPER®",
+    "desc": "Two flame-grilled beef patties stacked with all the classic WHOPPER toppings. When one patty simply isn't enough, the Double WHOPPER delivers double the satisfaction."
+  },
+  {
+    "category": "burgers",
+    "data_name": "WHOPPER with Bacon and Cheese",
+    "img": "WHOPPER with Bacon and Cheese.gmsr.avif",
+    "badge": "",
+    "name": "WHOPPER® with Bacon &amp; Cheese",
+    "desc": "The classic WHOPPER elevated with crispy bacon and a generous slice of melted cheese. Richer, saltier, and even more satisfying than the original."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Double WHOPPER with Bacon and Cheese",
+    "img": "Double WHOPPER with Bacon and Cheese.gmsr.avif",
+    "badge": "",
+    "name": "Double WHOPPER® with Bacon &amp; Cheese",
+    "desc": "Two flame-grilled patties with bacon and melted cheese — the pinnacle of WHOPPER indulgence. For serious burger enthusiasts only."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Big King",
+    "img": "Big King.gmsr.avif",
+    "badge": "",
+    "name": "Big King",
+    "desc": "Two juicy flame-grilled beef patties with special Big King sauce on a sesame seed bun. BK's answer to the stacked burger — bold flavour in a classic format."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Big King Little King",
+    "img": "Big King Little King.gmsr.avif",
+    "badge": "",
+    "name": "Big King Little King",
+    "desc": "A compact version of the Big King, delivering all the stacked burger flavour in a more manageable size. Perfect as a snack or a lighter meal option."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Big King Royale",
+    "img": "Big King Royale.gmsr.avif",
+    "badge": "",
+    "name": "Big King Royale",
+    "desc": "The Big King with a royal upgrade — enhanced toppings and sauce for a more premium multi-layer burger experience."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Big King Double Royale",
+    "img": "Big King Double Royale.gmsr.avif",
+    "badge": "",
+    "name": "Big King Double Royale",
+    "desc": "Double the patties, double the Royale experience. An impressive stack of flame-grilled beef with premium sauce and toppings."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Chicken Royale",
+    "img": "Chicken Royale.gmsr.png",
+    "badge": "🔥 Fan Fave",
+    "name": "Chicken Royale",
+    "desc": "BK's flagship chicken burger — a crispy, tender chicken fillet with lettuce and mayo on a soft sesame bun. Simple, classic, and always satisfying."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Double Chicken Royale",
+    "img": "Double Chicken Royale.gmsr.avif",
+    "badge": "",
+    "name": "Double Chicken Royale",
+    "desc": "Two crispy chicken fillets stacked for double the crunch and double the satisfaction. The ultimate BK chicken burger experience."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Chicken Royale Bacon and Cheese",
+    "img": "Chicken Royale Bacon & Cheese.gmsr.avif",
+    "badge": "",
+    "name": "Chicken Royale Bacon &amp; Cheese",
+    "desc": "The classic Chicken Royale enhanced with crispy bacon and melted cheese. A step up from the original in richness and flavour complexity."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Double Chicken Royale Bacon and Cheese",
+    "img": "Double Chicken Royale Bacon & Cheese.gmsr.avif",
+    "badge": "",
+    "name": "Double Chicken Royale Bacon &amp; Cheese",
+    "desc": "Two crispy chicken fillets, crispy bacon strips, and melted cheese. The most fully-loaded BK chicken burger available."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Cheeseburger",
+    "img": "Cheeseburger.gmsr.avif",
+    "badge": "",
+    "name": "Cheeseburger",
+    "desc": "A simple, classic flame-grilled beef patty with American cheese. Pure, unfussy, and reliably delicious. A timeless menu staple."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Double Cheeseburger",
+    "img": "Double Cheeseburger.gmsr.avif",
+    "badge": "",
+    "name": "Double Cheeseburger",
+    "desc": "Two flame-grilled beef patties with double the American cheese. More meat, more cheese, more satisfaction for those with a bigger appetite."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Bacon Double Cheeseburger",
+    "img": "Bacon Double Cheeseburger.gmsr.avif",
+    "badge": "",
+    "name": "Bacon Double Cheeseburger",
+    "desc": "Double patties, double cheese, and crispy bacon. The triple threat of the BK value burger range — substantial and full of flavour."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Bacon Double Cheese XL",
+    "img": "Bacon Double Cheese XL.gmsr.avif",
+    "badge": "",
+    "name": "Bacon Double Cheese XL",
+    "desc": "The XL upgrade — extra-large patties, extra cheese, and extra bacon in a bigger bun. For those who want everything bigger and bolder."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Hamburger",
+    "img": "Hamburger.gmsr.avif",
+    "badge": "",
+    "name": "Hamburger",
+    "desc": "The original. A single flame-grilled beef patty with classic condiments. Sometimes the simplest things are the most satisfying."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Plant-Based WHOPPER",
+    "img": "Plant-Based WHOPPER.gmsr.avif",
+    "badge": "🌱 Plant-Based",
+    "name": "Plant-Based WHOPPER®",
+    "desc": "All the iconic WHOPPER flavour with a plant-based patty. Flame-grilled and loaded with the same fresh toppings — a game-changer for plant-based fast food."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Vegan Royale",
+    "img": "Vegan Royale.gmsr.avif",
+    "badge": "🌱 Vegan",
+    "name": "Vegan Royale",
+    "desc": "A plant-based crispy fillet burger with vegan mayo and fresh lettuce. Proves that vegan fast food can be just as satisfying as the original."
+  },
+  {
+    "category": "burgers",
+    "data_name": "BBQ Steakhouse Angus",
+    "img": "BBQ Steakhouse Angus.gmsr.avif",
+    "badge": "",
+    "name": "BBQ Steakhouse Angus",
+    "desc": "Premium Angus beef patty with smoky BBQ sauce, crispy onions, and all the steakhouse trimmings. A burger for those who want a more sophisticated flavour profile."
+  },
+  {
+    "category": "burgers",
+    "data_name": "BBQ Steakhouse Crispy Chicken",
+    "img": "BBQ Steakhouse Crispy Chicken.gmsr.avif",
+    "badge": "",
+    "name": "BBQ Steakhouse Crispy Chicken",
+    "desc": "Crispy chicken fillet with smoky BBQ steakhouse sauce and toppings. All the richness of the steakhouse range in a chicken format."
+  },
+  {
+    "category": "burgers",
+    "data_name": "Wagyu Wellington",
+    "img": "BBQ Steakhouse Angus.gmsr.avif",
+    "badge": "✨ Premium",
+    "name": "Wagyu Wellington",
+    "desc": "An indulgent premium burger featuring Wagyu beef with Wellington-inspired garnishes. BK's most luxurious burger experience — a special treat."
+  },
+  {
+    "category": "burgers",
+    "data_name": "The Wagyu",
+    "img": "BBQ Steakhouse Crispy Chicken.gmsr.avif",
+    "badge": "✨ Premium",
+    "name": "The Wagyu",
+    "desc": "Premium Wagyu beef in a classic Burger King format. Richer marbling means more flavour and a more tender eating experience than standard beef."
+  },
+  {
+    "category": "chicken",
+    "data_name": "Chicken Nuggets",
+    "img": "Chicken Nuggets.gmsr.avif",
+    "badge": "🔥 Fan Fave",
+    "name": "Chicken Nuggets",
+    "desc": "Juicy, tender chicken pieces in a crispy golden coating. BK nuggets are consistently rated among the best fast-food nuggets in the UK for texture and flavour."
+  },
+  {
+    "category": "chicken",
+    "data_name": "9pc Pringles Sour Cream Onion Chicken Fries",
+    "img": "9pc Pringles Sour Cream & Onion Chicken Fries.gmsr.avif",
+    "badge": "",
+    "name": "9pc Pringles Sour Cream &amp; Onion Chicken Fries",
+    "desc": "The legendary Pringles collaboration — chicken fries coated in Sour Cream &amp; Onion flavour. Addictively good and unlike anything else on the BK menu."
+  },
+  {
+    "category": "chicken",
+    "data_name": "Garlic Jalapeno Chicken Fries",
+    "img": "Garlic & Jalapeno Chicken Fries.gmsr.avif",
+    "badge": "",
+    "name": "Garlic &amp; Jalapeño Chicken Fries",
+    "desc": "A spicy, garlicky coating on crispy chicken fries. For those who love heat and bold flavour in their snacking — seriously addictive."
+  },
+  {
+    "category": "chicken",
+    "data_name": "Chilli Cheese Bites",
+    "img": "Chilli Cheese Bites.gmsr.avif",
+    "badge": "",
+    "name": "Chilli Cheese Bites",
+    "desc": "Crispy bites filled with melted cheese and a chilli kick. A punchy, indulgent snack that brings real heat and cheesy satisfaction together perfectly."
+  },
+  {
+    "category": "chicken",
+    "data_name": "Burger Buddies 3pc",
+    "img": "Burger Buddies (3pc).gmsr.avif",
+    "badge": "",
+    "name": "Burger Buddies (3pc)",
+    "desc": "Three mini beef sliders — bite-sized burgers that pack a surprising amount of BK's signature flame-grilled flavour. Great as a snack or light meal."
+  },
+  {
+    "category": "chicken",
+    "data_name": "Burger Buddies 9pc",
+    "img": "Burger Buddies (9pc).gmsr.avif",
+    "badge": "",
+    "name": "Burger Buddies (9pc)",
+    "desc": "Nine mini sliders for sharing — or not. The 9pc Burger Buddies pack is ideal for groups, parties, or solo guests who seriously love mini burgers."
+  },
+  {
+    "category": "chicken",
+    "data_name": "Classic Chicken Melt",
+    "img": "Classic Chicken Melt.gmsr.avif",
+    "badge": "",
+    "name": "Classic Chicken Melt",
+    "desc": "Crispy chicken with a generous pour of melted cheese sauce in a toasted bun. Comforting, indulgent, and deeply satisfying."
+  },
+  {
+    "category": "chicken",
+    "data_name": "Classic Double Beef Melt",
+    "img": "Classic Double Beef Melt.gmsr.avif",
+    "badge": "",
+    "name": "Classic Double Beef Melt",
+    "desc": "Two flame-grilled beef patties smothered in rich, melted cheese sauce. A decadent option that takes the classic cheeseburger to new heights."
+  },
+  {
+    "category": "sides",
+    "data_name": "Fries",
+    "img": "Fries.gmsr.avif",
+    "badge": "🔥 Classic",
+    "name": "Fries",
+    "desc": "BK's golden, crispy fries — the original and the essential. Salted, crispy, and perfectly consistent every single time."
+  },
+  {
+    "category": "sides",
+    "data_name": "Onion Rings",
+    "img": "Onion Rings.gmsr.avif",
+    "badge": "",
+    "name": "Onion Rings",
+    "desc": "Crispy battered onion rings with a sweet, tender centre. BK's onion rings are a British fast-food institution and always worth ordering."
+  },
+  {
+    "category": "sides",
+    "data_name": "Loaded King Fries",
+    "img": "Loaded King Fries.gmsr.avif",
+    "badge": "",
+    "name": "Loaded King Fries",
+    "desc": "Golden BK fries topped with rich sauce and toppings. An elevated side experience that turns simple fries into something genuinely special."
+  },
+  {
+    "category": "sides",
+    "data_name": "Loaded King Fries With Bacon",
+    "img": "Loaded King Fries With Bacon.gmsr.avif",
+    "badge": "",
+    "name": "Loaded King Fries with Bacon",
+    "desc": "Loaded fries taken to the next level with crispy bacon pieces — the salty, savoury crunch of bacon over creamy loaded fries is irresistible."
+  },
+  {
+    "category": "sides",
+    "data_name": "Truffle Loaded King Fries",
+    "img": "Truffle Loaded King Fries.gmsr.avif",
+    "badge": "",
+    "name": "Truffle Loaded King Fries",
+    "desc": "BK's most premium side — golden fries drizzled with luxurious truffle sauce. Brings a gourmet touch to your fast-food meal without the gourmet price."
+  },
+  {
+    "category": "sides",
+    "data_name": "Loaded Force Fries",
+    "img": "Loaded Force Fries.gmsr.avif",
+    "badge": "",
+    "name": "Loaded Force Fries",
+    "desc": "A galaxy-inspired loaded fries creation — special sauce and toppings that pack interstellar flavour. A limited edition favourite."
+  },
+  {
+    "category": "sides",
+    "data_name": "Halloumi Fries",
+    "img": "Halloumi Fries.gmsr.avif",
+    "badge": "🧀 Veggie",
+    "name": "Halloumi Fries",
+    "desc": "Crispy, golden halloumi in a fries format — squeaky, salty, and satisfying. The best vegetarian side option on the BK menu, beloved by veggies and meat-eaters alike."
+  },
+  {
+    "category": "sides",
+    "data_name": "BBQ Dip Pot",
+    "img": "BBQ Dip Pot.gmsr.avif",
+    "badge": "",
+    "name": "BBQ Dip Pot",
+    "desc": "Smoky, tangy BBQ dipping sauce — the classic pairing with nuggets, fries, or onion rings. Always hits the spot."
+  },
+  {
+    "category": "sides",
+    "data_name": "Sweet Chilli Dip Pot",
+    "img": "Sweet Chilli Dip Pot.gmsr.avif",
+    "badge": "",
+    "name": "Sweet Chilli Dip Pot",
+    "desc": "Sweet with a satisfying chilli heat — perfect with chicken nuggets, halloumi fries, or as a burger sauce alternative."
+  },
+  {
+    "category": "sides",
+    "data_name": "Cheddar Cheese Sauce XL",
+    "img": "Cheddar Cheese Sauce XL.gmsr.avif",
+    "badge": "",
+    "name": "Cheddar Cheese Sauce XL",
+    "desc": "A generous XL portion of warm, melted cheddar cheese dipping sauce. Pour over fries, dip nuggets, or eat with a spoon — we won't judge."
+  },
+  {
+    "category": "meals",
+    "data_name": "BBQ Stacker King Box Beef",
+    "img": "BBQ Stacker King Box – Beef.gmsr.avif",
+    "badge": "📦 Box Deal",
+    "name": "BBQ Stacker King Box – Beef",
+    "desc": "A complete BBQ beef experience in a box — BBQ burger, fries or rings, sauce, and a drink. Great value and genuinely satisfying as a complete meal."
+  },
+  {
+    "category": "meals",
+    "data_name": "BBQ Stacker King Box Chicken",
+    "img": "BBQ Stacker King Box – Chicken.gmsr.avif",
+    "badge": "📦 Box Deal",
+    "name": "BBQ Stacker King Box – Chicken",
+    "desc": "The chicken version of the BBQ Stacker Box — crispy BBQ chicken burger with sides and drink. Equally satisfying and better value than ordering à la carte."
+  },
+  {
+    "category": "meals",
+    "data_name": "Beef Melt King Box",
+    "img": "Beef Melt King Box.gmsr.avif",
+    "badge": "",
+    "name": "Beef Melt King Box",
+    "desc": "The Beef Melt as a complete box meal — cheesy beef burger, sides, and drink for a fully loaded lunch experience."
+  },
+  {
+    "category": "meals",
+    "data_name": "Chicken Melt King Box",
+    "img": "Chicken Melt King Box.gmsr.avif",
+    "badge": "",
+    "name": "Chicken Melt King Box",
+    "desc": "Complete Chicken Melt meal in a king box — crispy chicken with melted cheese sauce, plus sides and drink for a great all-in-one deal."
+  },
+  {
+    "category": "meals",
+    "data_name": "Chicken Melt Meal",
+    "img": "Chicken Melt Meal.gmsr.avif",
+    "badge": "",
+    "name": "Chicken Melt Meal",
+    "desc": "Classic meal deal format — Chicken Melt burger with fries and your choice of drink. Streamlined, satisfying, and great value."
+  },
+  {
+    "category": "meals",
+    "data_name": "Double Beef Melt Meal",
+    "img": "Double Beef Melt Meal.gmsr.avif",
+    "badge": "",
+    "name": "Double Beef Melt Meal",
+    "desc": "The double beef melt as a complete meal — two cheesy beef patties with sides and drink for those with a serious appetite."
+  },
+  {
+    "category": "meals",
+    "data_name": "Beef Melt and Fries",
+    "img": "Beef Melt & Fries.gmsr.avif",
+    "badge": "",
+    "name": "Beef Melt &amp; Fries",
+    "desc": "Simple and satisfying — a cheesy beef melt burger paired with golden BK fries. A classic pairing that never disappoints."
+  },
+  {
+    "category": "meals",
+    "data_name": "Chicken Melt and Fries",
+    "img": "Chicken Melt & Fries.gmsr.avif",
+    "badge": "",
+    "name": "Chicken Melt &amp; Fries",
+    "desc": "Crispy chicken melt paired with golden BK fries. The chicken version of the classic burger-and-fries pairing — always a reliable choice."
+  },
+  {
+    "category": "meals",
+    "data_name": "Pringles King Box Beef Melts",
+    "img": "Pringles Sour Cream & Onion King Box – Beef Melts.gmsr.avif",
+    "badge": "🎉 Special",
+    "name": "Pringles Sour Cream &amp; Onion King Box – Beef Melts",
+    "desc": "The Pringles collaboration box — a beef melt meal plus Pringles Sour Cream &amp; Onion Chicken Fries. A uniquely flavoured fast-food collaboration."
+  },
+  {
+    "category": "meals",
+    "data_name": "Kids Cheeseburger Meal",
+    "img": "Kids Cheeseburger Meal.gmsr.avif",
+    "badge": "👶 Kids",
+    "name": "Kids Cheeseburger Meal",
+    "desc": "A perfectly sized kids' cheeseburger meal with age-appropriate sides and drink. Balanced portions that satisfy little appetites without overwhelming them."
+  },
+  {
+    "category": "meals",
+    "data_name": "Kids Hamburger Meal",
+    "img": "Kids Hamburger Meal.gmsr.avif",
+    "badge": "👶 Kids",
+    "name": "Kids Hamburger Meal",
+    "desc": "The classic kids' hamburger meal — a flame-grilled mini burger with sides and drink sized perfectly for younger diners."
+  },
+  {
+    "category": "meals",
+    "data_name": "Kids Chicken Nuggets Meal",
+    "img": "Kids Chicken Nuggets Meal.gmsr.avif",
+    "badge": "👶 Kids",
+    "name": "Kids Chicken Nuggets Meal",
+    "desc": "Kids' nugget meal — tender chicken nuggets with sides and a juice drink. The most popular kids' meal option at Burger King UK."
+  },
+  {
+    "category": "meals",
+    "data_name": "Kids Whopper Meal",
+    "img": "Kids Whopper Meal.gmsr.avif",
+    "badge": "👶 Kids",
+    "name": "Kids Whopper Meal",
+    "desc": "A mini WHOPPER® experience for younger visitors — all the iconic BK flavour in a perfectly sized kids' meal format."
+  },
+  {
+    "category": "meals",
+    "data_name": "Galactic Mandalorian Chicken Royale Meal",
+    "img": "Galactic Mandalorian Chicken Royale Meal.gmsr.avif",
+    "badge": "⭐ Limited",
+    "name": "Galactic Mandalorian Chicken Royale Meal",
+    "desc": "The Force-themed collaboration — Chicken Royale meal in Mandalorian Star Wars packaging. May the flavour be with you."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Vanilla Sundae",
+    "img": "Vanilla Sundae.gmsr.avif",
+    "badge": "",
+    "name": "Vanilla Sundae",
+    "desc": "Creamy vanilla soft serve in a classic sundae cup. Simple, clean, and a perfect palette cleanser after a rich burger meal."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Chocolate Sundae",
+    "img": "Chocolate Sundae.gmsr.avif",
+    "badge": "",
+    "name": "Chocolate Sundae",
+    "desc": "Smooth vanilla soft serve topped with rich chocolate sauce. A timeless dessert combination that satisfies the most persistent sweet tooth."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Strawberry Sundae",
+    "img": "Strawberry Sundae.gmsr.avif",
+    "badge": "",
+    "name": "Strawberry Sundae",
+    "desc": "Creamy soft serve with a sweet, fruity strawberry sauce topping. Light, refreshing, and the perfect summer dessert option."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Salted Caramel Sundae",
+    "img": "Salted Caramel Sundae.gmsr.avif",
+    "badge": "",
+    "name": "Salted Caramel Sundae",
+    "desc": "The contemporary favourite — vanilla soft serve with salted caramel drizzle. Sweet, salty, creamy, and utterly irresistible."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Grogu's Sundae",
+    "img": "Grogu’s Sundae.gmsr.avif",
+    "badge": "⭐ Special",
+    "name": "Grogu's Sundae",
+    "desc": "The Instagram-famous Baby Yoda inspired sundae from the Mandalorian collaboration. As adorable as it is delicious — a limited edition must-try."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Mini Grogu's Sundae",
+    "img": "Mini Grogu’s Sundae.gmsr.avif",
+    "badge": "",
+    "name": "Mini Grogu's Sundae",
+    "desc": "A smaller version of the famous Grogu's Sundae — perfect for little fans of The Mandalorian who want their very own cute dessert."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Vanilla Milkshake",
+    "img": "Vanilla Milkshake.gmsr.avif",
+    "badge": "",
+    "name": "Vanilla Milkshake",
+    "desc": "Thick and creamy vanilla milkshake — sweet, cold, and satisfying. The classic choice when you want something indulgent to drink."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Chocolate Milkshake",
+    "img": "Chocolate Milkshake.gmsr.avif",
+    "badge": "",
+    "name": "Chocolate Milkshake",
+    "desc": "Rich, indulgent chocolate milkshake made with soft serve ice cream and chocolate flavouring. The quintessential fast food dessert drink."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Strawberry Milkshake",
+    "img": "Strawberry Milkshake.gmsr.avif",
+    "badge": "",
+    "name": "Strawberry Milkshake",
+    "desc": "Sweet, fruity, and refreshingly pink — BK's strawberry milkshake is a crowd-pleaser for all ages."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Salted Caramel Milkshake",
+    "img": "Salted Caramel Milkshake.gmsr.avif",
+    "badge": "",
+    "name": "Salted Caramel Milkshake",
+    "desc": "A premium milkshake with the on-trend salted caramel flavour — rich, sweet, and salty in perfect harmony."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Twix Shake",
+    "img": "Twix Shake.gmsr.avif",
+    "badge": "",
+    "name": "Twix Shake",
+    "desc": "A milkshake inspired by the Twix chocolate bar — caramel, biscuit, and chocolate in a creamy, drinkable format. A chocolate lover's dream."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Smarties Fusion",
+    "img": "Smarties Fusion.gmsr.avif",
+    "badge": "",
+    "name": "Smarties Fusion",
+    "desc": "BK's soft serve blended with colourful Smarties pieces. A playful, vibrant dessert that brings out the inner child in everyone who orders it."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Twix Fusion",
+    "img": "Twix Fusion.gmsr.avif",
+    "badge": "",
+    "name": "Twix Fusion",
+    "desc": "Soft serve blended with pieces of Twix bar — caramel and biscuit chunks in creamy ice cream. Indulgent, sweet, and impossible to resist."
+  },
+  {
+    "category": "desserts",
+    "data_name": "King Fusion Smarties",
+    "img": "King Fusion – Smarties.gmsr.avif",
+    "badge": "",
+    "name": "King Fusion – Smarties",
+    "desc": "BK's signature King Fusion ice cream treat with Smarties blended in. Colourful, fun, and utterly delicious."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Mini Smarties Fusion",
+    "img": "Mini Smarties Fusion.gmr.avif",
+    "badge": "",
+    "name": "Mini Smarties Fusion",
+    "desc": "A smaller portion of the Smarties Fusion — ideal for those who want a lighter sweet treat or for younger diners."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Mini Twix Fusion",
+    "img": "Mini Twix Fusion.gmsr.avif",
+    "badge": "",
+    "name": "Mini Twix Fusion",
+    "desc": "All the Twix fusion goodness in a smaller, more manageable portion. Perfect for kids or as a light dessert option."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Small Ben Jerrys Cookie Dough",
+    "img": "Small Ben & Jerry’s Cookie Dough.gmsr.avif",
+    "badge": "",
+    "name": "Ben &amp; Jerry's Cookie Dough",
+    "desc": "The world-famous Ben &amp; Jerry's Cookie Dough ice cream, available at BK. Vanilla ice cream with chunks of cookie dough throughout — a global favourite."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Small Ben Jerrys Chocolate Fudge Brownie",
+    "img": "Small Ben & Jerry’s Chocolate Fudge Brownie.gmsr.avif",
+    "badge": "",
+    "name": "Ben &amp; Jerry's Chocolate Fudge Brownie",
+    "desc": "Chocolate ice cream with rich fudge brownie chunks from Ben &amp; Jerry's. The ultimate chocolate indulgence for dessert lovers."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Small Ben Jerrys Caramel Chew Chew",
+    "img": "Small Ben & Jerry’s Caramel Chew Chew.gmsr.avif",
+    "badge": "",
+    "name": "Ben &amp; Jerry's Caramel Chew Chew",
+    "desc": "Caramel ice cream with caramel ribbons and fudge pieces — Ben &amp; Jerry's caramel-lover's dream in a pot at BK."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Chocolate Brownie Cheesecake Bar",
+    "img": "Chocolate Brownie Cheesecake Bar.gmsr.avif",
+    "badge": "",
+    "name": "Chocolate Brownie Cheesecake Bar",
+    "desc": "Indulgent chocolate brownie cheesecake in convenient bar form — rich, fudgy, and creamy all at once. A dessert bar worth every calorie."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Gooey Salted Caramel Cheesecake Bar",
+    "img": "Gooey Salted Caramel Cheesecake Bar.gmsr.avif",
+    "badge": "",
+    "name": "Gooey Salted Caramel Cheesecake Bar",
+    "desc": "Gooey salted caramel filling in a creamy cheesecake bar — sweet, salty, and extraordinarily satisfying as a post-meal dessert."
+  },
+  {
+    "category": "desserts",
+    "data_name": "Strawberry Milkshake Cheesecake Bar",
+    "img": "Strawberry Milkshake Cheesecake Bar.gmsr.avif",
+    "badge": "",
+    "name": "Strawberry Milkshake Cheesecake Bar",
+    "desc": "Strawberry milkshake flavoured cheesecake bar — fruity, creamy, and light. A fresh dessert bar option that doesn't feel overly heavy."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Coca-Cola",
+    "img": "Coca-Cola.gmsr.avif",
+    "badge": "",
+    "name": "Coca-Cola®",
+    "desc": "The world's most iconic soft drink. Ice cold, perfectly carbonated — the classic pairing with any BK burger."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Diet Coca-Cola",
+    "img": "Diet Coca-Cola.gmsr.avif",
+    "badge": "",
+    "name": "Diet Coca-Cola®",
+    "desc": "All the Coca-Cola flavour with significantly fewer calories. The go-to choice for those watching their calorie intake without sacrificing the Coke experience."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Coca-Cola Zero Sugar",
+    "img": "Coca-Cola Zero.gmsr.avif",
+    "badge": "",
+    "name": "Coca-Cola Zero Sugar",
+    "desc": "The full Coca-Cola taste experience with zero sugar. Reformulated to taste closer to original Coke than Diet Coke — many prefer it."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Fanta Zero",
+    "img": "Fanta Zero.gmsr.avif",
+    "badge": "",
+    "name": "Fanta Zero",
+    "desc": "Fruity, fizzy Fanta flavour with zero sugar. A great lighter alternative to the regular Fanta for those monitoring sugar intake."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Sprite Zero",
+    "img": "Sprite Zero.gmsr.avif",
+    "badge": "",
+    "name": "Sprite Zero",
+    "desc": "Crisp, clean lemon-lime flavour with zero sugar. A refreshing, palate-cleansing choice that pairs well with rich, flavourful BK burgers."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Dr Pepper Zero",
+    "img": "Dr Pepper Zero.gmsr.avif",
+    "badge": "",
+    "name": "Dr Pepper Zero",
+    "desc": "The unique 23-flavour Dr Pepper blend in a zero sugar format. For those who want something a little different from the mainstream cola options."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Frozen Fanta Blue Raspberry",
+    "img": "Frozen Fanta – Blue Raspberry.gmsr.avif",
+    "badge": "",
+    "name": "Frozen Fanta – Blue Raspberry",
+    "desc": "An icy blue raspberry frozen slushie — cold, sweet, and instantly refreshing. Perfect on a warm day or as a fun treat alongside any meal."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Frozen Fanta Strawberry",
+    "img": "Frozen Fanta – Strawberry.gmsr.avif",
+    "badge": "",
+    "name": "Frozen Fanta – Strawberry",
+    "desc": "Sweet, fruity strawberry frozen slushie — a popular choice for younger diners and anyone who loves a fresh, cold fruit drink."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Frozen Fanta Strawberry Blue Raspberry",
+    "img": "Frozen Fanta – Strawberry & Blue Raspberry.gmsr.avif",
+    "badge": "",
+    "name": "Frozen Fanta – Strawberry &amp; Blue Raspberry",
+    "desc": "The best of both frozen worlds combined — strawberry and blue raspberry together in one vibrant, dual-tone frozen drink."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Monster Original 500ml",
+    "img": "Monster Original 500ml.gmsr.avif",
+    "badge": "",
+    "name": "Monster Energy Original 500ml",
+    "desc": "The original green Monster energy drink in a full 500ml can. The go-to energy drink for those who need a serious afternoon or post-breakfast boost."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Monster Mango Loco 500ml",
+    "img": "Monster Mango Loco 500ml.gmsr.avif",
+    "badge": "",
+    "name": "Monster Mango Loco 500ml",
+    "desc": "Tropical mango flavoured Monster energy drink — all the energy boost of the original with a fruity, exotic twist."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Monster Ultra White Zero Sugar 500ml",
+    "img": "Monster Ultra White Zero Sugar 500ml.gmsr.avif",
+    "badge": "",
+    "name": "Monster Ultra White Zero Sugar 500ml",
+    "desc": "Light, crisp citrus flavour with zero sugar. The cleaner energy drink option for health-conscious consumers who still need the Monster energy kick."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Cappuccino",
+    "img": "Cappuccino.gmsr.avif",
+    "badge": "",
+    "name": "Cappuccino",
+    "desc": "Equal parts espresso, steamed milk, and frothed milk foam. The classic Italian breakfast coffee — smooth, balanced, and deeply satisfying."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Latte",
+    "img": "Latte.gmsr.avif",
+    "badge": "",
+    "name": "Latte",
+    "desc": "Espresso with generous steamed milk for a longer, creamier coffee drink. The most accessible coffee drink on the menu — perfect for coffee beginners and regulars alike."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Flat White",
+    "img": "Flat White.gmsr.avif",
+    "badge": "",
+    "name": "Flat White",
+    "desc": "Strong espresso with velvety micro-foamed milk in a smaller volume than a latte. The specialist's choice — intense coffee flavour with silky texture."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Hot Chocolate",
+    "img": "Hot Chocolate.gmsr.avif",
+    "badge": "",
+    "name": "Hot Chocolate",
+    "desc": "Rich, warming, deeply chocolatey — the perfect non-coffee hot drink. Comforting in winter, indulgent year-round, and great alongside any breakfast item."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Tea",
+    "img": "Tea.gmsr.avif",
+    "badge": "",
+    "name": "Tea",
+    "desc": "A proper British cup of tea — hot, strong, and perfectly brewed. Nothing starts the day in the UK quite like a good cup of tea alongside breakfast."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Semi-Skimmed Milk",
+    "img": "Semi-Skimmed Milk.gmsr.avif",
+    "badge": "",
+    "name": "Semi-Skimmed Milk",
+    "desc": "Cold, fresh semi-skimmed milk. A pure, nutritious drink option for those who prefer something simple alongside their meal."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Bottled Water",
+    "img": "Bottled Water.gmsr.avif",
+    "badge": "",
+    "name": "Bottled Water",
+    "desc": "Clean, still water in a convenient bottle. The straightforward, calorie-free hydration option for any meal or occasion."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Innocent Kids Juicy Water Apples And Mangoes",
+    "img": "Innocent Kids Juicy Water Apples And Mangoes.gmsr.avif",
+    "badge": "👶 Kids",
+    "name": "Innocent Kids Juicy Water – Apples &amp; Mangoes",
+    "desc": "A healthy, fruit-based juicy water for children from the Innocent Kids range. Low sugar, naturally flavoured, and a great kids' drinks choice at BK."
+  },
+  {
+    "category": "drinks",
+    "data_name": "Innocent Kids Juicy Water Apples And Strawberries",
+    "img": "Innocent Kids Juicy Water Apples And Strawberries.gmsr.avif",
+    "badge": "👶 Kids",
+    "name": "Innocent Kids Juicy Water – Apples &amp; Strawberries",
+    "desc": "Another delicious Innocent Kids option — apple and strawberry fruit water that's refreshing, healthy, and perfect for younger BK diners."
+  }
+]
